@@ -5,9 +5,9 @@
   "description": "Parodies - Ore No Imouto Ga Konna Ni Kawaii Wake Ga Nai
 Characters - Kirino Kousaka, Ruri Gokou, Ayase Aragaki, Manami Tamura, Kanako Kurusu, Daisuke Kousaka",
 
-  "artist": "<manga artist>",
+  "artist": "Kotobuki Utage",
 
-  "author": "<manga author>",
+  "author": "Stidio Parm",
 
   "cover": "https://t.nhentai.net/galleries/365308/cover.jpg",
 
@@ -27,6 +27,14 @@ Characters - Kirino Kousaka, Ruri Gokou, Ayase Aragaki, Manami Tamura, Kanako Ku
 
       "last_updated": "1616368746"
 
+    },
+"02": {
+      "title": "PM29 Chichi Imouto 2 | My Father and Little Sister 2",
+      "volume": "02",
+      "groups": {
+        "Chapter 02": "/proxy/api/nhentai/chapter/63764/"
+      },
+      "last_updated": "1616368746"
     }
 
   }
