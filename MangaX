@@ -21,13 +21,13 @@ Characters : Kirino Kousaka, Ruri Gokou, Ayase Aragaki, Manami Tamura, Kanako Ku
 
       "groups": {
 
-        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+        "Chapter 01": "/proxy/api/nhentai/chapter/60950/"
 
       },
 
       "last_updated": "1616368746"
 
-    },
+    }
 
   }
 
