@@ -2,23 +2,22 @@
 
   "title": "Chichi Imouto | My Father and Little Sister",
 
-  "description": "Parodies: 
-
-ore no imouto ga konna ni kawaii wake ga nai",
+  "description": "Parodies : ore no imouto ga konna ni kawaii wake ga nai
+Characters : Kirino Kousaka, Ruri Gokou, Ayase Aragaki, Manami Tamura, Kanako Kurusu, Daisuke Kousaka",
 
   "artist": "<manga artist>",
 
   "author": "<manga author>",
 
-  "cover": "<mangacoverurl.jpg>",
+  "cover": "https://t.nhentai.net/galleries/365308/cover.jpg",
 
   "chapters": {
 
-    "<chapter number>": {
+    "01": {
 
-      "title": "<chapter name>",
+      "title": "PM 28 Chichi Imouto | My Father and Little Sister",
 
-      "volume": "<volume number>",
+      "volume": "01",
 
       "groups": {
 
