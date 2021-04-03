@@ -1,1 +1,98 @@
+{
 
+  "title": "Chitose",
+
+  "description": "COMIC Mugen Tensei",
+
+  "artist": "Seto Yuuki",
+
+  "author": "Seto Yuki",
+
+  "cover": "https://t.nhentai.net/galleries/1474387/cover.jpg",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "Chitose Ch. 01",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/nhentai/chapter/283046/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "Chitose Ch. 02",
+
+      "volume": "02",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/nhentai/chapter/287814/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "03": {
+
+      "title": "Chitose Ch. 03",
+
+      "volume": "03",
+
+      "groups": {
+
+        "Chapter 03": "/proxy/api/nhentai/chapter/301181/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "04": {
+
+      "title": "Chitose Ch. 04",
+
+      "volume": "04",
+
+      "groups": {
+
+        "Chapter 04": "/proxy/api/nhentai/chapter/319760/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "05": {
+
+      "title": "Chitose Ch. 05",
+
+      "volume": "05",
+
+      "groups": {
+
+        "Chapter 05": "/proxy/api/nhentai/chapter/346872/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+
+  }
+
+}
