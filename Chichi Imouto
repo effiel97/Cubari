@@ -20,7 +20,7 @@
 
       "groups": {
 
-        "Chapter 01": "nhentai.net/g/60950/"
+        "Chapter 01": "/proxy/api/nhentai.net/g/60950/"
 
       },
 
@@ -31,7 +31,7 @@
       "title": "PM29 Chichi Imouto 2 | My Father and Little Sister 2",
       "volume": "02",
       "groups": {
-        "Chapter 02": "nhentai.net/g/63764/"
+        "Chapter 02": "/proxy/api/nhentai/g/63764/"
       },
       "last_updated": "1616368746"
     },
@@ -39,7 +39,7 @@
       "title": "PM30 Chichi Imouto 3 | My Father and Little Sister 3",
       "volume": "03",
       "groups": {
-        "Chapter 03": "nhentai.net/g/68899/"
+        "Chapter 03": "/proxy/api/nhentai.net/g/68899/"
       },
       "last_updated": "1616368746"
     },
@@ -47,7 +47,7 @@
       "title": "PM31 Chichi Imouto 4 | My Father and Little Sister 4",
       "volume": "04",
       "groups": {
-        "Chapter 04": "nhentai.net/g/77386/"
+        "Chapter 04": "/proxy/api/nhentai/chapter/77386/"
       },
       "last_updated": "1616368746"
     },
@@ -55,7 +55,7 @@
       "title": "PM32 Chichi Imouto 5 | My Father and Little Sister 5",
       "volume": "05",
       "groups": {
-        "Chapter 05": "nhentai.net/g/79274/"
+        "Chapter 05": "/proxy/api/nhentai.net/chapter/79274/"
       },
       "last_updated": "1616368746"
     }
