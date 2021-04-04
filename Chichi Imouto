@@ -2,7 +2,7 @@
 
   "title": "Chichi Imouto | My Father and Little Sister",
 
-  "description": "Parodies - Ore No Imouto Ga Konna Ni Kawaii Wake Ga Nai Characters - Kirino Kousaka, Ruri Gokou, Ayase Aragaki, Manami Tamura, Kanako Kurusu, Daisuke Kousaka",
+  "description": "hitomi.la, Parodies - Ore No Imouto Ga Konna Ni Kawaii Wake Ga Nai Characters - Kirino Kousaka, Ruri Gokou, Ayase Aragaki, Manami Tamura, Kanako Kurusu, Daisuke Kousaka",
 
   "artist": "Kotobuki Utage",
 
@@ -20,7 +20,7 @@
 
       "groups": {
 
-        "Chapter 01": "/proxy/api/nhentai/chapter/60950/"
+        "Chapter 01": "/proxy/api/hitomi/chapter/365308/"
 
       },
 
@@ -31,7 +31,7 @@
       "title": "PM29 Chichi Imouto 2 | My Father and Little Sister 2",
       "volume": "02",
       "groups": {
-        "Chapter 02": "/proxy/api/nhentai/chapter/63764/"
+        "Chapter 02": "/proxy/api/hitomi/chapter/394050/"
       },
       "last_updated": "1616368746"
     },
@@ -39,7 +39,7 @@
       "title": "PM30 Chichi Imouto 3 | My Father and Little Sister 3",
       "volume": "03",
       "groups": {
-        "Chapter 03": "/proxy/api/nhentai/chapter/68899/"
+        "Chapter 03": "/proxy/api/hitomi/chapter/437735/"
       },
       "last_updated": "1616368746"
     },
@@ -47,7 +47,7 @@
       "title": "PM31 Chichi Imouto 4 | My Father and Little Sister 4",
       "volume": "04",
       "groups": {
-        "Chapter 04": "/proxy/api/nhentai/chapter/77386/"
+        "Chapter 04": "/proxy/api/hitomi/chapter/504308/"
       },
       "last_updated": "1616368746"
     },
@@ -55,7 +55,7 @@
       "title": "PM32 Chichi Imouto 5 | My Father and Little Sister 5",
       "volume": "05",
       "groups": {
-        "Chapter 05": "/proxy/api/nhentai/chapter/79274/"
+        "Chapter 05": "/proxy/api/hitomi/chapter/517209/"
       },
       "last_updated": "1616368746"
     }
