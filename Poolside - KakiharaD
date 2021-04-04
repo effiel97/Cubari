@@ -1,0 +1,34 @@
+{
+
+  "title": "Poolside - KakiharaD",
+
+  "description": "KakiharaD, Patreon, Twitter, Borderlust Comix",
+
+  "artist": "KakiharaD",
+
+  "author": "KakiharaD",
+
+  "cover": "https://i.imgur.com/VCkAtAj.jpg",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "Poolside",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/imgur/chapter/t87QpJi/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    }
+
+
+  }
+
+}
