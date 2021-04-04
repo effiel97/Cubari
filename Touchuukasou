@@ -88,6 +88,10 @@
 
       },
 
+      "last_updated": "1616368746"
+
+    },
+
     "06": {
 
       "title": "Touchuukasou 6",
@@ -99,6 +103,10 @@
         "Chapter 06": "/proxy/api/hitomi/chapter/1559280/"
 
       },
+
+      "last_updated": "1616368746"
+
+    },
 
     "07": {
 
@@ -112,6 +120,10 @@
 
       },
 
+      "last_updated": "1616368746"
+
+    },
+
     "08": {
 
       "title": "Touchuukasou 8",
@@ -122,7 +134,11 @@
 
         "Chapter 08": "/proxy/api/hitomi/chapter/1856187/"
 
-      }
+      },
+
+      "last_updated": "1616368746"
+
+    }
 
   }
 
