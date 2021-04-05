@@ -1,0 +1,130 @@
+{
+
+  "title": "Shining Musume.",
+
+  "description": "hitomi.la",
+
+  "artist": "Shiwasu No Okina",
+
+  "author": "Shiwasu No Okina",
+
+  "cover": "https://cdn.donmai.us/sample/36/86/__fushimoto_miki_kanata_reina_yoshiwaza_hitomi_itsumi_aiga_kurumi_kowaru_and_3_more_shining_musume_drawn_by_shiwasu_no_okina__sample-3686efc578ff40508c66d7c4c2587eec.jpg",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "Shining Musume. 1. First Shining (Decensored)",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/hitomi/chapter/1794434/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "Shining Musume. 2. Second Paradise (Decensored)",
+
+      "volume": "02",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/hitomi/chapter/1795100/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "03": {
+
+      "title": "Shining Musume. 3. Third Go Ahead! (Decensored)",
+
+      "volume": "03",
+
+      "groups": {
+
+        "Chapter 03": "/proxy/api/hitomi/chapter/1795858/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "04": {
+
+      "title": "Shining Musume. 4. Number Four (Decensored)",
+
+      "volume": "04",
+
+      "groups": {
+
+        "Chapter 04": "/proxy/api/hitomi/chapter/1796626/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "05": {
+
+      "title": "Shining Musume. 5. Five Sense Of Love (Decensored)",
+
+      "volume": "05",
+
+      "groups": {
+
+        "Chapter 05": "/proxy/api/hitomi/chapter/1797776/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "06": {
+
+      "title": "Shining Musume. 6. Rainbow Six (Decensored)",
+
+      "volume": "06",
+
+      "groups": {
+
+        "Chapter 06": "/proxy/api/hitomi/chapter/1799182/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "07": {
+
+      "title": "Shining Musume Vol.7",
+
+      "volume": "07",
+
+      "groups": {
+
+        "Chapter 07": "/proxy/api/nhentai/chapter/34455/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    }
+
+
+  }
+
+}
