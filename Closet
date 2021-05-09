@@ -1,0 +1,66 @@
+{
+
+  "title": "Closet",
+
+  "description": "hitomi.la",
+
+  "artist": "Yamakumo",
+
+  "author": "Yamakumo",
+
+  "cover": "https://ba.hitomi.la/avif/6/31/9894cd789b723c496d82eff3cdf5e11268ac0afac1f8b9d4e5b804f620cd4316.avif",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "Closet 0 ~Ubawareta Junketsu~ | Closet 0 ~Stolen Purity~",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/hitomi/chapter/1859408/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "Closet ~Osananajimi No Shinjitsu~ | Closet ~The Truth About My Childhood Friend~",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/hitomi/chapter/1030210/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "03": {
+
+      "title": "Closet 2 ~Kanojo No Ketsumatsu~ | Closet 2 ~Her Conclusion~",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 03": "/proxy/api/hitomi/chapter/1209799/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    }
+
+
+  }
+
+}
