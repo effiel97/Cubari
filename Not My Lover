@@ -1,0 +1,66 @@
+{
+
+  "title": "Not My Lover",
+
+  "description": "hitomi.la",
+
+  "artist": "k3",
+
+  "author": "SS-Brain",
+
+  "cover": "https://i.nhentai.net/galleries/614071/1.jpg",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "Koibito Ja...Nai. Shinohara Kaede Hen | Not My Lover - Shinohara Kaede",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/hitomi/chapter/702037/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "Koibito Ja...Nai. Seto Karen Hen",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/hitomi/chapter/1064807/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "03": {
+
+      "title": "Koibito Ja... Nai. APPEND BOOK",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 03": "/proxy/api/hitomi/chapter/1189682/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    }
+
+
+  }
+
+}
