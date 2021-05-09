@@ -1,0 +1,82 @@
+{
+
+  "title": "Entanglement",
+
+  "description": "hitomi.la",
+
+  "artist": "Katsura Airi",
+
+  "author": "Katsura Airi",
+
+  "cover": "https://bb.hitomi.la/images/1/3d/08d9da93b3698fa4788d98fc7ac559be1891013b498403e7eab1c4a2e05183d1.jpg",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "Karami Zakari Vol. 1 | Entanglement Vol. 1",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/hitomi/chapter/1316745/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "Karami Zakari Bangaihen ~Takashi To Iida~",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01.5": "/proxy/api/hitomi/chapter/1899486/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "03": {
+
+      "title": "Karami Zakari Vol. 2 | Entanglement Vol. 2",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/hitomi/chapter/1525638/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "04": {
+
+      "title": "Karami Zakari Vol. 3 | Entanglement Vol. 3",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 03": "/proxy/api/hitomi/chapter/1778595/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    }
+
+
+  }
+
+}
