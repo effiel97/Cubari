@@ -1,0 +1,78 @@
+{
+
+  "title": "Osoroi",
+
+  "description": "hitomi.la",
+
+  "artist": "Nyamota",
+
+  "author": "Noraneko Koubou",
+
+  "cover": "https://i.imgur.com/55gnU03.jpg",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "Osoroi by Nyamota (hitomi.la) Type 1",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/imgur/chapter/UtnKH8G/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "Osoroi by Nyamota (hitomi.la) Type 1 (Dark Skin)",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01.5": "/proxy/api/imgur/chapter/No5fdcO/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "03": {
+
+      "title": "Osoroi by Nyamota (hitomi.la) Type 2",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/imgur/chapter/pRLoKzN/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "04": {
+
+      "title": "Osoroi by Nyamota (hitomi.la) Type 3",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 03": "/proxy/api/imgur/chapter/Ew7RElT/"
+
+      }
+
+
+  }
+
+}
