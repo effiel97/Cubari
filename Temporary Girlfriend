@@ -1,0 +1,50 @@
+{
+
+  "title": "Temporary Girlfriend",
+
+  "description": "hitomi.la",
+
+  "artist": "Asagiri Tendou",
+
+  "author": "X Model",
+
+  "cover": "https://i.nhentai.net/galleries/1892783/1.jpg",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "Karisome No Kanojo | Temporary Girlfriend",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/hitomi/chapter/1882816/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "Karisome No Kanojo II Cosplay H Hen | Temporary Girlfriend II Cosplay H Edition",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/hitomi/chapter/1894011/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    }
+
+
+  }
+
+}
