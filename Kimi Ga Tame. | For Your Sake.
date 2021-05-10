@@ -1,0 +1,50 @@
+{
+
+  "title": "Kimi Ga Tame. | For Your Sake.",
+
+  "description": "hitomi.la",
+
+  "artist": "Syukurin",
+
+  "author": "Syukurin",
+
+  "cover": "https://i.nhentai.net/galleries/1508778/1.jpg",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "Kimi Ga Tame. | For Your Sake.",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/hitomi/chapter/1518189/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "Kimi Ga Tame. 2 Ichikawa Inori ~Kanraku Hen~",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/hitomi/chapter/1886654/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    }
+
+
+  }
+
+}
