@@ -1,0 +1,98 @@
+{
+
+  "title": "Trouble Teachers",
+
+  "description": "To Love-Tu, hitomi.la",
+
+  "artist": "Kasukabe Taro",
+
+  "author": "Tora Machine",
+
+  "cover": "https://i.nhentai.net/galleries/519272/1.jpg",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "Trouble★Teachers",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/hitomi/chapter/520382/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "Trouble★Teachers Vol. 2",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/hitomi/chapter/804440/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "03": {
+
+      "title": "Trouble★Teachers Vol. 3",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 03": "/proxy/api/hitomi/chapter/936416/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "04": {
+
+      "title": "Trouble★Teachers Vol. 4",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 04": "/proxy/api/hitomi/chapter/965132/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "05": {
+
+      "title": "Trouble Teachers Vol. 5",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 05": "/proxy/api/hitomi/chapter/1361365/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    }
+
+
+  }
+
+}
