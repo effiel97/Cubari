@@ -1,0 +1,50 @@
+{
+
+  "title": "Itsumo Boku O Mamotte Kureru Osananajimi",
+
+  "description": "Artist CG, hitomi.la",
+
+  "artist": "Carrot",
+
+  "author": "Carrot",
+
+  "cover": "https://doujin-assets.dmm.co.jp/digital/cg/d_098604/d_098604pr.jpg",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "Itsumo Boku O Mamotte Kureru Osananajimi Ga Boku O Ijimeteita Yatsu To SEX Shimakutteita Ken Zenpen",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/hitomi/chapter/1185895/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "Itsumo Boku O Mamotte Kureru Osananajimi Ga Boku O Ijimeteita Yatsu To SEX Shimakutteita Ken Kouhen",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/hitomi/chapter/1185902/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    }
+
+
+  }
+
+}
