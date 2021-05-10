@@ -1,0 +1,98 @@
+{
+
+  "title": "Tachibana Yukina Enkou Nisshi",
+
+  "description": "hitomi.la",
+
+  "artist": "Shake",
+
+  "author": "Shakestyle",
+
+  "cover": "https://i.nhentai.net/galleries/921097/1.jpg",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "Tachibana Yukina Enkou Nisshi 1 Watashi... Nani Yatterun Darou...",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/hitomi/chapter/1619477/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "Tachibana Yukina Enkou Nisshi 2 Watashi… Shicchatta Kara…",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/hitomi/chapter/1210699/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "03": {
+
+      "title": "Tachibana Yukina Enkou Nisshi 3 Watashi O Onna Ni Shitekureru Hito...",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 03": "/proxy/api/hitomi/chapter/1619478/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "04": {
+
+      "title": "Tachibana Yukina Enkou Nisshi 4 Kare Ga Shiranai Hontou No Watashi...,
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 04": "/proxy/api/hitomi/chapter/1619474/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "05": {
+
+      "title": "Tachibana Yukina Enkou Nisshi 5 Sayonara Watashi No Daisuki Na Hito..."",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 05": "/proxy/api/hitomi/chapter/1619480/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    }
+
+
+  }
+
+}
