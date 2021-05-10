@@ -1,0 +1,50 @@
+{
+
+  "title": "Kono Kaisha... Nanika Okashii!",
+
+  "description": "hitomi.la",
+
+  "artist": "Someoka Yusura",
+
+  "author": "Aomizuan | Shiroganean",
+
+  "cover": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ236000/RJ235057_img_main.webp",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "Kono Kaisha... Nanika Okashii! Part 1",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/hitomi/chapter/1422814/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "Kono Kaisha... Nanika Okashii! Part 2",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/hitomi/chapter/1624287/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    }
+
+
+  }
+
+}
