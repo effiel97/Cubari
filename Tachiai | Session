@@ -1,0 +1,50 @@
+{
+
+  "title": "Tachiai | Session",
+
+  "description": "hitomi.la",
+
+  "artist": "Shioroku",
+
+  "author": "Salt180",
+
+  "cover": "https://i.nhentai.net/galleries/1467981/1.jpg",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "Tachiai | Session",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/hitomi/chapter/1491646/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "Tachiai 2",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/hitomi/chapter/1849857/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    }
+
+
+  }
+
+}
