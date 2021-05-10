@@ -1,0 +1,114 @@
+{
+
+  "title": "Ecchii No",
+
+  "description": "hitomi.la",
+
+  "artist": "Nyamota",
+
+  "author": "Noraneko Koubou",
+
+  "cover": "https://i.imgur.com/4bHg9iJ.jpg",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "Ecchii No by Nyamota (hitomi.la) Type 1",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/imgur/chapter/Bqo3Vlk/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "Ecchii No by Nyamota (hitomi.la) Type 1 (Dark Skin)",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01.5": "/proxy/api/imgur/chapter/19jDNCN/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "03": {
+
+      "title": "Ecchii No by Nyamota (hitomi.la) Type 2",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/imgur/chapter/9g7Y0G6/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "04": {
+
+      "title": "Ecchii No by Nyamota (hitomi.la) Type 2 (Dark Skin)",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02.5": "/proxy/api/imgur/chapter/nNSYBrb/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "05": {
+
+      "title": "Ecchii No by Nyamota (hitomi.la) Type 3",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 03": "/proxy/api/imgur/chapter/3tgO0X0/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "05": {
+
+      "title": "Ecchii No by Nyamota (hitomi.la) Type 3 (Dark Skin)",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 03.5": "/proxy/api/imgur/chapter/iBaebuR/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    }
+
+
+  }
+
+}
