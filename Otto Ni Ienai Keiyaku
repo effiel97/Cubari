@@ -1,0 +1,50 @@
+{
+
+  "title": "Otto Ni Ienai Keiyaku",
+
+  "description": "hitomi.la",
+
+  "artist": "Nizigensan",
+
+  "author": "Ura No Hikidashi",
+
+  "cover": "https://is1.sh-cdn.com/images/e/2/7/6/235832/giant_thumb_ac759ccc.jpg",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "Otto Ni Ienai Keiyaku",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/hitomi/chapter/1683868/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "Otto Ni Ienai Keiyaku 2 | The Contract I Cant Tell My Husband 2",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/hitomi/chapter/1664417/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    }
+
+
+  }
+
+}
