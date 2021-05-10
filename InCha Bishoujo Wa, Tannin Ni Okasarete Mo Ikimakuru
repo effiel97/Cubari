@@ -1,0 +1,50 @@
+{
+
+  "title": "InCha Bishoujo Wa, Tannin Ni Okasarete Mo Ikimakuru",
+
+  "description": "hitomi.la",
+
+  "artist": "Katsurai Yoshiaki",
+
+  "author": "Aomizuan",
+
+  "cover": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ232000/RJ231297_img_main.webp",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "InCha Bishoujo Wa, Tannin Ni Okasarete Mo Ikimakuru",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/hitomi/chapter/1651646/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "InCha Bishoujo Wa Tannin Ni Okasarete Mo Ikimakuru 2 | Introverted Beauty Gets Raped Over And Over By Her Homeroom Teacher 2",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/hitomi/chapter/1593406/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    }
+
+
+  }
+
+}
