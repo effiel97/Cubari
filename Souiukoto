@@ -1,0 +1,78 @@
+{
+
+  "title": "Souiukoto",
+
+  "description": "hitomi.la",
+
+  "artist": "Nyamota",
+
+  "author": "Noraneko Koubou",
+
+  "cover": "https://i.imgur.com/nxho6VL.jpg",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "Souiukoto by Nyamota (hitomi.la) Type 1",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/imgur/chapter/RNNlNJ4/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "Souiukoto by Nyamota (hitomi.la) Type 1 (Dark Skin)",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01.5": "/proxy/api/imgur/chapter/bLdGWuB/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "03": {
+
+      "title": "Souiukoto by Nyamota (hitomi.la) Type 2",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/imgur/chapter/jLNMCB0/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "04": {
+
+      "title": "Souiukoto by Nyamota (hitomi.la) Type 2 (Dark Skin)",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 03": "/proxy/api/imgur/chapter/0lGkU6q/"
+
+      }
+
+
+  }
+
+}
