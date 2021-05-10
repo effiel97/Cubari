@@ -1,0 +1,50 @@
+{
+
+  "title": "Otto No Douryou Ni Kako",
+
+  "description": "Artist CG, hitomi.la",
+
+  "artist": "Carrot",
+
+  "author": "Carrot",
+
+  "cover": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ191000/RJ190437_img_main.webp",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "Otto No Douryou Ni Kako No Gakusei No Koro No Watashi To Genzai No Hitozuma No Watashi Ga Tanezuke Sarechau Ohanashi",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/hitomi/chapter/1192260/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "Otto No Douryou Ni Kako No Gakusei No Koro No Watashi To Genzai No Hitozuma No Watashi Ga Tanezuke Sarechau Ohanashi Sonogo",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/hitomi/chapter/1194901/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    }
+
+
+  }
+
+}
