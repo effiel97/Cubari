@@ -1,0 +1,98 @@
+{
+
+  "title": "Mana Tama Plus",
+
+  "description": "Series : Love Plus, hitomi.la",
+
+  "artist": "Takeda Hiromitsu",
+
+  "author": "Shinjugai",
+
+  "cover": "https://i.nhentai.net/galleries/520341/1.jpg",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "Mana Tama Plus",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/hitomi/chapter/525715/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "Mana Tama Plus 2",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/hitomi/chapter/565941/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "03": {
+
+      "title": "Mana Tama Plus 3",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 03": "/proxy/api/hitomi/chapter/908827/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "04": {
+
+      "title": "Manatama Plus Kakioroshi | Manatama Plus Extra",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 04": "/proxy/api/hitomi/chapter/1479985/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "05": {
+
+      "title": "Mana Tama Plus Soushuuhen",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 05": "/proxy/api/hitomi/chapter/1502933/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    }
+
+
+  }
+
+}
