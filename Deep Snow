@@ -1,0 +1,162 @@
+{
+
+  "title": "Deep Snow",
+
+  "description": "Series : Mahouka Koukou No Rettousei, hitomi.la",
+
+  "artist": "Ichino, Yuyu",
+
+  "author": "Kawaisounako",
+
+  "cover": "https://i.nhentai.net/galleries/582946/1.jpg",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "Deep Snow",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/hitomi/chapter/609382/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "Deep Snow 2",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/hitomi/chapter/609387/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "03": {
+
+      "title": "Deep Snow 3",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 03": "/proxy/api/hitomi/chapter/621383/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "04": {
+
+      "title": "Deep Snow 4",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 04": "/proxy/api/hitomi/chapter/734355/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "05": {
+
+      "title": "Deep Snow 5",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 05": "/proxy/api/hitomi/chapter/752916/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "06": {
+
+      "title": "Deep Snow 6",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 06": "/proxy/api/hitomi/chapter/787096/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "07": {
+
+      "title": "Deep Snow 1-6",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 06.5": "/proxy/api/hitomi/chapter/787412/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "08": {
+
+      "title": "Deep Snow 7",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 07": "/proxy/api/hitomi/chapter/932621/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "09": {
+
+      "title": "Deep Snow 8",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 08": "/proxy/api/hitomi/chapter/934951/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    }
+
+
+  }
+
+}
