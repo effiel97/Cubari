@@ -1,0 +1,50 @@
+{
+
+  "title": "Damashiuchi",
+
+  "description": "Series : The Idolmaster, hitomi.la",
+
+  "artist": "Yd",
+
+  "author": "Orangemaru",
+
+  "cover": "https://i.nhentai.net/galleries/982110/1.jpg",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "Damashiuchi | Foul Play",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/hitomi/chapter/991389/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "Damashiuchi II",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/hitomi/chapter/1151181/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    }
+
+
+  }
+
+}
