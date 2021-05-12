@@ -1,0 +1,98 @@
+{
+
+  "title": "Mating Dance",
+
+  "description": "Series : Mahou Shoujo Lyrical Nanoha, hitomi.la",
+
+  "artist": "Ishigaki Takashi",
+
+  "author": "Type-G",
+
+  "cover": "https://i.nhentai.net/galleries/843912/1.jpg",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "Mesu Kagura -Fate Hen 1- | Mating Dance -Fate Chapter 1- (Decensored)",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/hitomi/chapter/1074050/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "Mesu Kagura -Fate Hen 2- | Mating Dance -Fate Chapter 2-",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/hitomi/chapter/892503/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "03": {
+
+      "title": "Mesu Kagura -Fate Hen 3- | Mating Dance -Fate Chapter -",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 03": "/proxy/api/hitomi/chapter/1003908/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "04": {
+
+      "title": "Mesu Kagura -Fate Hen 4-",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 04": "/proxy/api/hitomi/chapter/1032234/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "05": {
+
+      "title": "Mesu Kagura -Fate Hen 5-",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 05": "/proxy/api/hitomi/chapter/1144678/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    }
+
+
+  }
+
+}
