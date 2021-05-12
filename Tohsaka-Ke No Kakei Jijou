@@ -1,0 +1,194 @@
+{
+
+  "title": "Tohsaka-Ke No Kakei Jijou",
+
+  "description": "Series : Fate Stay Night, hitomi.la",
+
+  "artist": "Jin",
+
+  "author": "Mtsp",
+
+  "cover": "https://i.nhentai.net/galleries/893258/1.jpg",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "Tohsaka-Ke No Kakei Jijou",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/hitomi/chapter/260643/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "Tohsaka-Ke No Kakei Jijou 2",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/hitomi/chapter/268837/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "03": {
+
+      "title": "Tohsaka-Ke No Kakei Jijou 3",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 03": "/proxy/api/hitomi/chapter/281178/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "04": {
+
+      "title": "Tohsaka-Ke No Kakei Jijou 4",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 04": "/proxy/api/hitomi/chapter/236636/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "05": {
+
+      "title": "Tohsaka-Ke No Kakei Jijou 5",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 05": "/proxy/api/hitomi/chapter/247888/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "06": {
+
+      "title": "Tohsaka-Ke No Kakei Jijou 6",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 06": "/proxy/api/hitomi/chapter/1326128/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "07": {
+
+      "title": "Tohsaka-Ke No Kakei Jijou 7",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 07": "/proxy/api/hitomi/chapter/348469/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "08": {
+
+      "title": "Tosaka-Ke No Kakei Jijou 8",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 08": "/proxy/api/hitomi/chapter/405616/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "09": {
+
+      "title": "Tohsaka-Ke No Kakei Jijou 9",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 09": "/proxy/api/hitomi/chapter/549918/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "10": {
+
+      "title": "Tosaka-Ke No Kakei Jijou Soushuuhen 1",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 09.5": "/proxy/api/hitomi/chapter/549918/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "11": {
+
+      "title": "Tosaka-Ke No Kakei Jijou 10 | The Tosaka Household's Family Circumstances 10",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 10": "/proxy/api/hitomi/chapter/1326128/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    }
+
+
+  }
+
+}
