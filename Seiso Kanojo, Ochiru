@@ -1,0 +1,50 @@
+{
+
+  "title": "Seiso Kanojo, Ochiru",
+
+  "description": "hitomi.la",
+
+  "artist": "Great Mosu",
+
+  "author": "Mosquitone.",
+
+  "cover": "https://i.nhentai.net/galleries/1211378/1.jpg",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "Seiso Kanojo, Ochiru || The Pure Girlfriend’s Fall",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/hitomi/chapter/1817892/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "Seiso Kanojo, Ochiru. II The Pure Girlfriend's Fall 2",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/hitomi/chapter/1817919/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    }
+
+
+  }
+
+}
