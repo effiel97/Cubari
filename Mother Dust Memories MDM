@@ -1,0 +1,50 @@
+{
+
+  "title": "Mother Dust Memories MDM",
+
+  "description": "hitomi.la",
+
+  "artist": "Tanaka Aji",
+
+  "author": "Dm-Fc",
+
+  "cover": "https://i.nhentai.net/galleries/698447/1.jpg",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "MDM Mother Dust Memories Vol. 1 - Kikkake",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/hitomi/chapter/850597/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "Moto Ladies Souchou No Haha Wa Chara Geinin No Ochinpo Iinari Omocha MDM Vol. 2",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/hitomi/chapter/904976/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    }
+
+
+  }
+
+}
