@@ -1,0 +1,258 @@
+{
+
+  "title": "Getsu Ka Sui Moku Kin Do Nichi",
+
+  "description": "Series : Sailor Moon, hitomi.la",
+
+  "artist": "Isao",
+
+  "author": "Majimeya",
+
+  "cover": "https://i.nhentai.net/galleries/1418631/1.jpg",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "Getsu Ka Sui Moku Kin Do Nichi",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/hitomi/chapter/220184/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "Getsu Ka Sui Moku Kin Do Nichi 2",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/hitomi/chapter/1017109/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "03": {
+
+      "title": "Getsu Ka Sui Moku Kin Do Nichi 3",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 03": "/proxy/api/hitomi/chapter/274539/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "04": {
+
+      "title": "Getsukasui Mokukindo Nichi 3.5",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 03.5": "/proxy/api/hitomi/chapter/274538/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "05": {
+
+      "title": "Getsu Ka Sui Moku Kin Do Nichi 4",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 04": "/proxy/api/hitomi/chapter/331242/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "06": {
+
+      "title": "Getsu Ka Sui Moku Kin Do Nichi 5.1",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 05.1": "/proxy/api/hitomi/chapter/375121/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "07": {
+
+      "title": "Getsu Ka Sui Moku Kin Do Nichi 6",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 06": "/proxy/api/hitomi/chapter/451048/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "08": {
+
+      "title": "Getsu Ka Sui Moku Kin Do Nichi 7",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 07": "/proxy/api/hitomi/chapter/600880/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "09": {
+
+      "title": "Getsu Ka Sui Moku Kin Do Nichi 8",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 08": "/proxy/api/hitomi/chapter/678059/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "10": {
+
+      "title": "Getsu Ka Sui Moku Kin Do Nichi 9 Rei-Chan No Aijin Nikki",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 09": "/proxy/api/hitomi/chapter/858146/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "11": {
+
+      "title": "Getsu Ka Sui Moku Kin Do Nichi 10",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 10": "/proxy/api/hitomi/chapter/1127015/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "12": {
+
+      "title": "Getsu Ka Sui Moku Kin Do Nichi 11",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 11": "/proxy/api/hitomi/chapter/1617988/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "13": {
+
+      "title": "Getsu Ka Sui Moku Kin Do Nichi FullColor "Hotel Venus E Youkoso!!" (Decensored)",
+
+      "volume": "02",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/hitomi/chapter/999915/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "14": {
+
+      "title": "Getsu Ka Sui Moku Kin Do Nichi Full Color 2 Hotel Venus Shucchou Hen (Decensored)",
+
+      "volume": "02",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/hitomi/chapter/1001978/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "15": {
+
+      "title": "Getsu Ka Sui Moku Kin Do Nichi Full Color 3",
+
+      "volume": "02",
+
+      "groups": {
+
+        "Chapter 03": "/proxy/api/hitomi/chapter/734542/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    }
+
+
+  }
+
+}
