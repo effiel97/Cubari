@@ -1,0 +1,82 @@
+{
+
+  "title": "The Regret",
+
+  "description": "hitomi.la",
+
+  "artist": "Itou Eight",
+
+  "author": "Itou Eight",
+
+  "cover": "https://i.nhentai.net/galleries/1838482/1.jpg",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "Kokoronokori Ch. 1",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/hitomi/chapter/1078594/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "Kokoronokori | The Regret Ch. 2",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/hitomi/chapter/1226214/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "03": {
+
+      "title": "Kokoronokori | The Regret Ch. 3",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 03": "/proxy/api/hitomi/chapter/1296046/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "04": {
+
+      "title": "Kokoro Nokori Saishuushou | The Regret 4",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 04": "/proxy/api/hitomi/chapter/1849945/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    }
+
+
+  }
+
+}
