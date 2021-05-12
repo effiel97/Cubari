@@ -1,0 +1,50 @@
+{
+
+  "title": "Erona",
+
+  "description": "hitomi.la",
+
+  "artist": "Yamada Gogogo",
+
+  "author": "Yamada Gogogo",
+
+  "cover": "https://i.nhentai.net/galleries/1423486/1.jpg",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "ERONA Orc No Inmon Ni Okasareta Onna Kishi No Matsuro",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/hitomi/chapter/1428134/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "Erona ~Orc No Inmon Ni Okasareta Onna Kishi No Matsuro~ | Erona ~The Fall Of A Beautiful Knight Cursed With The Lewd Mark Of An Orc~ Ch. 1-6 (Decensored)",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/hitomi/chapter/1286567/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    }
+
+
+  }
+
+}
