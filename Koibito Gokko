@@ -1,0 +1,50 @@
+{
+
+  "title": "Koibito Gokko",
+
+  "description": "hitomi.la",
+
+  "artist": "Taono Kinoko",
+
+  "author": "Kinoko 931 Percent",
+
+  "cover": "https://i.nhentai.net/galleries/912322/1.jpg",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "Koibito Gokko | Love Swing",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/hitomi/chapter/993911/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "Koibito Gokko 2",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/hitomi/chapter/1438403/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    }
+
+
+  }
+
+}
