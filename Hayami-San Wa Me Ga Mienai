@@ -1,0 +1,50 @@
+{
+
+  "title": "Hayami-San Wa Me Ga Mienai",
+
+  "description": "hitomi.la",
+
+  "artist": "Fuetakishi",
+
+  "author": "Shoot The Moon",
+
+  "cover": "https://i.nhentai.net/galleries/1337941/1.jpg",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "Hayami-San Wa Me Ga Mienai",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/hitomi/chapter/1377430/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "Hayami-San Wa Me Ga Mienai 2",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/hitomi/chapter/1617762/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    }
+
+
+  }
+
+}
