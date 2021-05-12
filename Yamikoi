@@ -1,0 +1,98 @@
+{
+
+  "title": "Yamikoi",
+
+  "description": "Series : Nisekoi, hitomi.la",
+
+  "artist": "Eitarou",
+
+  "author": "Kaminari-Neko",
+
+  "cover": "https://i.nhentai.net/galleries/761747/1.jpg",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "Yamikoi -Saimin- | Yamikoi -Hypnotism-",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/hitomi/chapter/801241/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "Yamikoi -Saimin- 2",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/hitomi/chapter/898002/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "03": {
+
+      "title": "Yamikoi -Saimin- 3",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 03": "/proxy/api/hitomi/chapter/905991/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "04": {
+
+      "title": "Yamikoi -Saimin- 4",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/hitomi/chapter/1618019/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "05": {
+
+      "title": "Yamikoi",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 05": "/proxy/api/hitomi/chapter/1798548/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    }
+
+
+  }
+
+}
