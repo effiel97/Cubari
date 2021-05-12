@@ -1,0 +1,66 @@
+{
+
+  "title": "01 Test",
+
+  "description": "Series : Maken-Ki, hitomi.la",
+
+  "artist": "Ken",
+
+  "author": "Ken",
+
+  "cover": "https://i.nhentai.net/galleries/1211378/1.jpg",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "Ahen-Ki! Ch. 01",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/hentaifox/chapter/49548/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "Ahen-Ki! Ch. 02",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/hitomi/chapter/1707833/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "03": {
+
+      "title": "Ahen-Ki! Ch. 03",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 03": "/proxy/api/hitomi/chapter/701914/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    }
+
+
+  }
+
+}
