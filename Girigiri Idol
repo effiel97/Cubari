@@ -1,0 +1,50 @@
+{
+
+  "title": "Girigiri Idol",
+
+  "description": "hitomi.la",
+
+  "artist": "Rocket Monkey",
+
+  "author": "Osaru No Noumiso",
+
+  "cover": "https://i.nhentai.net/galleries/1334478/1.jpg",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "Girigiri Idol Sailor Jooby",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/hitomi/chapter/1892580/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "ギリギリアイドル + 4Pリーフレット Complete - Japanese",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/hitomi/chapter/1334478/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    }
+
+
+  }
+
+}
