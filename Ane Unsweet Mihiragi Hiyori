@@ -1,0 +1,50 @@
+{
+
+  "title": "Ane Unsweet Mihiragi Hiyori",
+
+  "description": "hitomi.la",
+
+  "artist": "Tanaka Aji",
+
+  "author": "Tanaka Aji",
+
+  "cover": "https://i.nhentai.net/galleries/751688/1.png",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "Ane Unsweet Mihiragi Hiyori",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/hitomi/chapter/751688/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "姉アンスイート 彌平木日和＋ Complete - Japanese",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/hitomi/chapter/800019/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    }
+
+
+  }
+
+}
