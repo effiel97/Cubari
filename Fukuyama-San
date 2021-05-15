@@ -1,0 +1,66 @@
+{
+
+  "title": "Fukuyama-San",
+
+  "description": "hitomi.la",
+
+  "artist": "Fuetakishi",
+
+  "author": "Shoot The Moon",
+
+  "cover": "https://i.nhentai.net/galleries/1319991/1.jpg",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "Fukuyama-San. 2",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/hitomi/chapter/315570/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "Fukuyama-San Jou Nandemo Shite Kureru Boku Dake No Kanojo",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/hitomi/chapter/1347924/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "03": {
+
+      "title": "Fukuyama-San Ge Nandemo Shite Kureru Boku Dake No Kanojo",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 03": "/proxy/api/hitomi/chapter/1347927/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    }
+
+
+  }
+
+}
