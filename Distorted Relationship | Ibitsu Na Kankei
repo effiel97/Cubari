@@ -1,0 +1,50 @@
+{
+
+  "title": "Distorted Relationship | Ibitsu Na Kankei",
+
+  "description": "Shitomi.la",
+
+  "artist": "Yasu",
+
+  "author": "NA",
+
+  "cover": "https://i.nhentai.net/galleries/1500029/1.jpg",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "Ibitsu Na Kankei ~Manatsu No YariCir Rankou Gasshuku~ - Distorted Relationship Ch. 1-4 + ~After~",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/hitomi/chapter/1500029/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "歪なカンケイ",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/hitomi/chapter/1455501/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    }
+
+
+  }
+
+}
