@@ -1,0 +1,50 @@
+{
+
+  "title": "D-Mode",
+
+  "description": "Series : Dragon Quest Xi, hitomi.la",
+
+  "artist": "Hozumi Kenji",
+
+  "author": "Shouchuu Mac",
+
+  "cover": "https://i.nhentai.net/galleries/1147594/1.jpg",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "D-Mode (Decensored)",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/hitomi/chapter/1839772/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "D-Mode Harem - Japanese",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/hitomi/chapter/1717811/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    }
+
+
+  }
+
+}
