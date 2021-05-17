@@ -14,13 +14,141 @@
 
     "01": {
 
-      "title": "Ahen-Ki! Ch. 01",
+      "title": "Fubuki - One Punch Man",
 
       "volume": "01",
 
       "groups": {
 
-        "Chapter 01": "/proxy/api/hitomi/chapter/1212388/"
+        "Chapter 01": "/proxy/api/hitomi/chapter/1775677/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "NieR Commander VIrus - Nier Automata",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/hitomi/chapter/1775693/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "03": {
+
+      "title": "K/DA Evelyn Pt.1 - League Of Legends (English)",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 03": "/proxy/api/hitomi/chapter/1807266/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "04": {
+
+      "title": "K/DA Evelynn Pt. 2 - League Of Legends (English)",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 04": "/proxy/api/hitomi/chapter/1807639/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "05": {
+
+      "title": "Kazumi Midnight - Tekken",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 05": "/proxy/api/hitomi/chapter/1808103/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "06": {
+
+      "title": "KDA Limited Edition - League Of Legends",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 06": "/proxy/api/hitomi/chapter/1808111/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "07": {
+
+      "title": "KDA Ahri Part.1 - League Of Legends (English)",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 07": "/proxy/api/hitomi/chapter/1811749/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "08": {
+
+      "title": "KDA Ahri Part.2 - League Of Legends (English)",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 08": "/proxy/api/hitomi/chapter/1816798/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "03": {
+
+      "title": "Ahen-Ki! Ch. 03",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 03": "/proxy/api/hitomi/chapter/701914/"
 
       },
 
@@ -69,6 +197,38 @@
       "groups": {
 
         "Chapter 02": "/proxy/api/hitomi/chapter/1707833/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "03": {
+
+      "title": "2B Bathroom - Nier Automata",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 03": "/proxy/api/hitomi/chapter/1876970/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "Anna Summer Vacation - Tekken (English)",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/hitomi/chapter/1877680/"
 
       },
 
@@ -142,7 +302,7 @@
 
     "03": {
 
-      "title": "KDA Ahri Part 1 + Part 2 + Bonus Gallery - League Of Legends",
+      "title": "KDA Ahri Part 1 + Part 2 + Bonus Gallery - League Of Legends (English)",
 
       "volume": "01",
 
