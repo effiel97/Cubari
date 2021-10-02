@@ -2,7 +2,7 @@
 
   "title": "The Regret",
 
-  "description": "hitomi.la",
+  "description": "hitomi.la (1078594,1226214,1296046,1849945,1838482), nhentai (198909,233550,248942,360129,346206)",
 
   "artist": "Itou Eight",
 
@@ -20,7 +20,7 @@
 
       "groups": {
 
-        "Chapter 01": "/proxy/api/hitomi/chapter/1078594/"
+        "Chapter 01": "/proxy/api/nhentai/chapter/198909/"
 
       },
 
@@ -36,7 +36,7 @@
 
       "groups": {
 
-        "Chapter 02": "/proxy/api/hitomi/chapter/1226214/"
+        "Chapter 02": "/proxy/api/nhentai/chapter/233550/"
 
       },
 
@@ -52,7 +52,7 @@
 
       "groups": {
 
-        "Chapter 03": "/proxy/api/hitomi/chapter/1296046/"
+        "Chapter 03": "/proxy/api/nhentai/chapter/248942/"
 
       },
 
@@ -68,7 +68,7 @@
 
       "groups": {
 
-        "Chapter 04": "/proxy/api/hitomi/chapter/1849945/"
+        "Chapter 04": "/proxy/api/nhentai/chapter/360129/"
 
       },
 
@@ -84,7 +84,7 @@
 
       "groups": {
 
-        "Chapter 05": "/proxy/api/hitomi/chapter/1838482/"
+        "Chapter 05": "/proxy/api/nhentai/chapter/346206/"
 
       },
 
