@@ -2,7 +2,7 @@
 
   "title": "InCha Bishoujo Wa, Tannin Ni Okasarete Mo Ikimakuru",
 
-  "description": "hitomi.la",
+  "description": "hitomi.la (1651646,1593406,), nhentai (257326,367857,368176)",
 
   "artist": "Katsurai Yoshiaki",
 
@@ -20,7 +20,7 @@
 
       "groups": {
 
-        "Chapter 01": "/proxy/api/hitomi/chapter/1651646/"
+        "Chapter 01": "/proxy/api/nhentai/chapter/257326/"
 
       },
 
@@ -36,7 +36,23 @@
 
       "groups": {
 
-        "Chapter 02": "/proxy/api/hitomi/chapter/1593406/"
+        "Chapter 02": "/proxy/api/nhentai/chapter/367857/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "03": {
+
+      "title": "InCha Bishoujo Wa Tannin Ni Okasarete Mo Ikimakuru 3 | Introverted Beauty Gets Raped Over And Over By Her Homeroom Teacher 3",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 03": "/proxy/api/nhentai/chapter/368176/"
 
       },
 
