@@ -2,7 +2,7 @@
 
   "title": "Tachiai | Session",
 
-  "description": "hitomi.la",
+  "description": "hitomi.la(1491646,1849857), nhentai (286360,348110)",
 
   "artist": "Shioroku",
 
@@ -20,7 +20,7 @@
 
       "groups": {
 
-        "Chapter 01": "/proxy/api/hitomi/chapter/1491646/"
+        "Chapter 01": "/proxy/api/nhentai/chapter/286360/"
 
       },
 
@@ -36,7 +36,7 @@
 
       "groups": {
 
-        "Chapter 02": "/proxy/api/hitomi/chapter/1849857/"
+        "Chapter 02": "/proxy/api/nhentai/chapter/348110/"
 
       },
 
