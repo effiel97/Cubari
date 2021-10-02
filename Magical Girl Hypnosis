@@ -2,7 +2,7 @@
 
   "title": "Magical Girl Hypnosis",
 
-  "description": "Series : Fate Grand Order | Fate Kaleid Liner Prisma Illya, hitomi.la",
+  "description": "Series : Fate Grand Order | Fate Kaleid Liner Prisma Illya, hitomi.la (1221089,1356747,1191559,1331261,1417769,1466644,1487762), nhentai (232571,261587,225872,256280,272858,281716,285717)",
 
   "artist": "Santa",
 
@@ -20,7 +20,7 @@
 
       "groups": {
 
-        "Chapter 01": "/proxy/api/hitomi/chapter/1221089/"
+        "Chapter 01": "/proxy/api/nhentai/chapter/232571/"
 
       },
 
@@ -36,7 +36,7 @@
 
       "groups": {
 
-        "Chapter 01.1": "/proxy/api/hitomi/chapter/1356747/"
+        "Chapter 01.1": "/proxy/api/nhentai/chapter/261587/"
 
       },
 
@@ -52,7 +52,7 @@
 
       "groups": {
 
-        "Chapter 02": "/proxy/api/hitomi/chapter/1191559/"
+        "Chapter 02": "/proxy/api/nhentai/chapter/225872/"
 
       },
 
@@ -68,7 +68,7 @@
 
       "groups": {
 
-        "Chapter 02.5": "/proxy/api/hitomi/chapter/1331261/"
+        "Chapter 02.5": "/proxy/api/nhentai/chapter/256280/"
 
       },
 
@@ -84,7 +84,7 @@
 
       "groups": {
 
-        "Chapter 02.9": "/proxy/api/hitomi/chapter/1417769/"
+        "Chapter 02.9": "/proxy/api/nhentai/chapter/272858/"
 
       },
 
@@ -100,7 +100,7 @@
 
       "groups": {
 
-        "Chapter 03": "/proxy/api/hitomi/chapter/1466644/"
+        "Chapter 03": "/proxy/api/nhentai/chapter/281716/"
 
       },
 
@@ -116,7 +116,7 @@
 
       "groups": {
 
-        "Chapter 04": "/proxy/api/hitomi/chapter/1487762/"
+        "Chapter 04": "/proxy/api/nhentai/chapter/285717/"
 
       },
 
