@@ -2,7 +2,7 @@
 
   "title": "Temporary Girlfriend",
 
-  "description": "hitomi.la",
+  "description": "hitomi.la (1882816,1894011), nhentai (363888,356105)",
 
   "artist": "Asagiri Tendou",
 
@@ -20,7 +20,7 @@
 
       "groups": {
 
-        "Chapter 01": "/proxy/api/hitomi/chapter/1882816/"
+        "Chapter 01": "/proxy/api/nhentai/chapter/363888/"
 
       },
 
@@ -36,7 +36,7 @@
 
       "groups": {
 
-        "Chapter 02": "/proxy/api/hitomi/chapter/1894011/"
+        "Chapter 02": "/proxy/api/nhentai/chapter/356105/"
 
       },
 
