@@ -2,7 +2,7 @@
 
   "title": "Toshoshitsu No Kanojo",
 
-  "description": "hitomi.la",
+  "description": "hitomi.la (1543285,1711581,1724270,1875308), nhentai (299071, 325354,327421,352581)",
 
   "artist": "Ame Arare",
 
@@ -20,7 +20,7 @@
 
       "groups": {
 
-        "Chapter 01": "/proxy/api/hitomi/chapter/1543285/"
+        "Chapter 01": "/proxy/api/nhentai/chapter/299071/"
 
       },
 
@@ -36,7 +36,7 @@
 
       "groups": {
 
-        "Chapter 02": "/proxy/api/hitomi/chapter/1711581/"
+        "Chapter 02": "/proxy/api/nhentai/chapter/325354/"
 
       },
 
@@ -52,7 +52,7 @@
 
       "groups": {
 
-        "Chapter 03": "/proxy/api/hitomi/chapter/1724270/"
+        "Chapter 03": "/proxy/api/nhentai/chapter/327421/"
 
       },
 
@@ -68,7 +68,7 @@
 
       "groups": {
 
-        "Chapter 04": "/proxy/api/hitomi/chapter/1875308/"
+        "Chapter 04": "/proxy/api/nhentai/chapter/352581/"
 
       },
 
