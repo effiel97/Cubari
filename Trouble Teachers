@@ -2,7 +2,7 @@
 
   "title": "Trouble Teachers",
 
-  "description": "To Love-Tu, hitomi.la",
+  "description": "To Love-Tu, hitomi.la (520382,804440,936416,965132,1361365), nhentai (79685,131649,164439,171238,262426)",
 
   "artist": "Kasukabe Taro",
 
@@ -20,7 +20,7 @@
 
       "groups": {
 
-        "Chapter 01": "/proxy/api/hitomi/chapter/520382/"
+        "Chapter 01": "/proxy/api/nhentai/chapter/79685/"
 
       },
 
@@ -36,7 +36,7 @@
 
       "groups": {
 
-        "Chapter 02": "/proxy/api/hitomi/chapter/804440/"
+        "Chapter 02": "/proxy/api/nhentai/chapter/131649/"
 
       },
 
@@ -52,7 +52,7 @@
 
       "groups": {
 
-        "Chapter 03": "/proxy/api/hitomi/chapter/936416/"
+        "Chapter 03": "/proxy/api/nhentai/chapter/164439/"
 
       },
 
@@ -68,7 +68,7 @@
 
       "groups": {
 
-        "Chapter 04": "/proxy/api/hitomi/chapter/965132/"
+        "Chapter 04": "/proxy/api/nhentai/chapter/171238/"
 
       },
 
@@ -84,7 +84,7 @@
 
       "groups": {
 
-        "Chapter 05": "/proxy/api/hitomi/chapter/1361365/"
+        "Chapter 05": "/proxy/api/nhentai/chapter/262426/"
 
       },
 
