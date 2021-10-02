@@ -2,7 +2,7 @@
 
   "title": "Tohsaka-Ke No Kakei Jijou",
 
-  "description": "Series : Fate Stay Night, hitomi.la",
+  "description": "Series : Fate Stay Night, hitomi.la (260643,268837,281178,236636,247888,294735,348469,405616,549918,940389,1326128), nhentai (49094,49770,51197,46713,47918,368172,59095,65217,83987,165433,255349)",
 
   "artist": "Jin",
 
@@ -20,7 +20,7 @@
 
       "groups": {
 
-        "Chapter 01": "/proxy/api/hitomi/chapter/260643/"
+        "Chapter 01": "/proxy/api/nhentai/chapter/49094/"
 
       },
 
@@ -36,7 +36,7 @@
 
       "groups": {
 
-        "Chapter 02": "/proxy/api/hitomi/chapter/268837/"
+        "Chapter 02": "/proxy/api/nhentai/chapter/49770/"
 
       },
 
@@ -52,7 +52,7 @@
 
       "groups": {
 
-        "Chapter 03": "/proxy/api/hitomi/chapter/281178/"
+        "Chapter 03": "/proxy/api/nhentai/chapter/51197/"
 
       },
 
@@ -68,7 +68,7 @@
 
       "groups": {
 
-        "Chapter 04": "/proxy/api/hitomi/chapter/236636/"
+        "Chapter 04": "/proxy/api/nhentai/chapter/46713/"
 
       },
 
@@ -84,7 +84,7 @@
 
       "groups": {
 
-        "Chapter 05": "/proxy/api/hitomi/chapter/247888/"
+        "Chapter 05": "/proxy/api/nhentai/chapter/47918/"
 
       },
 
@@ -100,7 +100,7 @@
 
       "groups": {
 
-        "Chapter 06": "/proxy/api/hitomi/chapter/1326128/"
+        "Chapter 06": "/proxy/api/nhentai/chapter/368172/"
 
       },
 
@@ -116,7 +116,7 @@
 
       "groups": {
 
-        "Chapter 07": "/proxy/api/hitomi/chapter/348469/"
+        "Chapter 07": "/proxy/api/nhentai/chapter/59095/"
 
       },
 
@@ -132,7 +132,7 @@
 
       "groups": {
 
-        "Chapter 08": "/proxy/api/hitomi/chapter/405616/"
+        "Chapter 08": "/proxy/api/nhentai/chapter/65217/"
 
       },
 
@@ -148,7 +148,7 @@
 
       "groups": {
 
-        "Chapter 09": "/proxy/api/hitomi/chapter/549918/"
+        "Chapter 09": "/proxy/api/nhentai/chapter/83987/"
 
       },
 
@@ -164,7 +164,7 @@
 
       "groups": {
 
-        "Chapter 09.5": "/proxy/api/hitomi/chapter/549918/"
+        "Chapter 09.5": "/proxy/api/nhentai/chapter/165433/"
 
       },
 
@@ -180,7 +180,7 @@
 
       "groups": {
 
-        "Chapter 10": "/proxy/api/hitomi/chapter/1326128/"
+        "Chapter 10": "/proxy/api/nhentai/chapter/255349/"
 
       },
 
