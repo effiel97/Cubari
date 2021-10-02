@@ -2,7 +2,7 @@
 
   "title": "Shinomiya Kaguya O Goukan Shitai",
 
-  "description": "Kaguya-Sama Wa Kokurasetai, hitomi.la",
+  "description": "Kaguya-Sama Wa Kokurasetai, hitomi.la (1534642,1536149), nhentai (372839,294226)",
 
   "artist": "Ma-Kurou",
 
@@ -20,7 +20,7 @@
 
       "groups": {
 
-        "Chapter 01": "/proxy/api/hitomi/chapter/1534642/"
+        "Chapter 01": "/proxy/api/nhentai/chapter/372839/"
 
       },
 
@@ -36,7 +36,7 @@
 
       "groups": {
 
-        "Chapter 02": "/proxy/api/hitomi/chapter/1536149/"
+        "Chapter 02": "/proxy/api/nhentai/chapter/294226/"
 
       },
 
