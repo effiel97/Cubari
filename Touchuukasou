@@ -2,7 +2,7 @@
 
   "title": "Touchuukasou",
 
-  "description": "hitomi.la, Group - Shoot The Moon",
+  "description": "hitomi.la (1189711,1173823,1323674,1343403,1525997,1559280,1655408,1856187), nhentai (221610,225467,254877,259248,294235,299526,316250,349257), Group - Shoot The Moon",
 
   "artist": "Fuetakishi",
 
@@ -20,7 +20,7 @@
 
       "groups": {
 
-        "Chapter 01": "/proxy/api/hitomi/chapter/1189711/"
+        "Chapter 01": "/proxy/api/nhentai/chapter/221610/"
 
       },
 
@@ -36,7 +36,7 @@
 
       "groups": {
 
-        "Chapter 02": "/proxy/api/hitomi/chapter/1173823/"
+        "Chapter 02": "/proxy/api/nhentai/chapter/225467/"
 
       },
 
@@ -52,7 +52,7 @@
 
       "groups": {
 
-        "Chapter 03": "/proxy/api/hitomi/chapter/1323674/"
+        "Chapter 03": "/proxy/api/nhentai/chapter/254877/"
 
       },
 
@@ -68,7 +68,7 @@
 
       "groups": {
 
-        "Chapter 04": "/proxy/api/hitomi/chapter/1343403/"
+        "Chapter 04": "/proxy/api/nhentai/chapter/259248/"
 
       },
 
@@ -84,7 +84,7 @@
 
       "groups": {
 
-        "Chapter 05": "/proxy/api/hitomi/chapter/1525997/"
+        "Chapter 05": "/proxy/api/nhentai/chapter/294235/"
 
       },
 
@@ -100,7 +100,7 @@
 
       "groups": {
 
-        "Chapter 06": "/proxy/api/hitomi/chapter/1559280/"
+        "Chapter 06": "/proxy/api/nhentai/chapter/299526/"
 
       },
 
@@ -116,7 +116,7 @@
 
       "groups": {
 
-        "Chapter 07": "/proxy/api/hitomi/chapter/1655408/"
+        "Chapter 07": "/proxy/api/nhentai/chapter/316250/"
 
       },
 
@@ -132,7 +132,7 @@
 
       "groups": {
 
-        "Chapter 08": "/proxy/api/hitomi/chapter/1856187/"
+        "Chapter 08": "/proxy/api/nhentai/chapter/349257/"
 
       },
 
