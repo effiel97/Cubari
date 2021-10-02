@@ -2,7 +2,7 @@
 
   "title": "Not My Lover",
 
-  "description": "hitomi.la",
+  "description": "hitomi.la (702037,1064807,1189682), nhentai (110649,195547,225444)",
 
   "artist": "k3",
 
@@ -14,13 +14,13 @@
 
     "01": {
 
-      "title": "Koibito Ja...Nai. Shinohara Kaede Hen | Not My Lover - Shinohara Kaede",
+      "title": "Koibito Ja...Nai. Suzuhara Kaede Hen | Not My Lover - Suzuhara Kaede",
 
       "volume": "01",
 
       "groups": {
 
-        "Chapter 01": "/proxy/api/hitomi/chapter/702037/"
+        "Chapter 01": "/proxy/api/nhentai/chapter/110649/"
 
       },
 
@@ -36,7 +36,7 @@
 
       "groups": {
 
-        "Chapter 02": "/proxy/api/hitomi/chapter/1064807/"
+        "Chapter 02": "/proxy/api/nhentai/chapter/195547/"
 
       },
 
@@ -52,7 +52,7 @@
 
       "groups": {
 
-        "Chapter 03": "/proxy/api/hitomi/chapter/1189682/"
+        "Chapter 03": "/proxy/api/nhentai/chapter/225444/"
 
       },
 
