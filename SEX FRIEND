@@ -2,7 +2,7 @@
 
   "title": "SEX FRIEND",
 
-  "description": "hitomi.la",
+  "description": "hitomi.la (1633462,1640225,1701259,), nhentai (312796,313819,323606,363434)",
 
   "artist": "Makinosaka Shinichi",
 
@@ -20,7 +20,7 @@
 
       "groups": {
 
-        "Chapter 01": "/proxy/api/hitomi/chapter/1633462/"
+        "Chapter 01": "/proxy/api/nhentai/chapter/312796/"
 
       },
 
@@ -36,7 +36,7 @@
 
       "groups": {
 
-        "Chapter 02": "/proxy/api/hitomi/chapter/1640225/"
+        "Chapter 02": "/proxy/api/nhentai/chapter/313819/"
 
       },
 
@@ -52,7 +52,23 @@
 
       "groups": {
 
-        "Chapter 03": "/proxy/api/hitomi/chapter/1701259/"
+        "Chapter 03": "/proxy/api/nhentai/chapter/323606/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "04": {
+
+      "title": "SEX FRIEND 4 Japanese",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 04": "/proxy/api/nhentai/chapter/363434/"
 
       },
 
