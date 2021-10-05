@@ -2,7 +2,7 @@
 
   "title": "Saimin Seishidou",
 
-  "description": "Anime, nhentai.net Raw+Translated, hitomi.la",
+  "description": "Anime, nhentai.net Raw+Translated (176455,187373,202674,233102,274326,225462,257131,?,?,261181,?,301321), hitomi.la (985020,1660411,1094052,1221742,?,1677358,1336274,1581788,1585627,1360961,1590540,?)",
 
   "artist": "Aiue Oka",
 
@@ -78,6 +78,22 @@
 
     "05": {
 
+      "title": "Saimin Seishidou Nozaki Shinobu no Baai Japanese",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02.8": "/proxy/api/nhentai/chapter/274326/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "06": {
+
       "title": "Saimin Seishidou 3 Miyajima Sakura to Kase Masafumi no Baai",
 
       "volume": "01",
@@ -92,7 +108,7 @@
 
     },
 
-    "06": {
+    "07": {
 
       "title": "Saimin Seishidou 4 Ninshin Taiken Shidou (Shi) | Hypnosis Sex Guidance 4 - Pregnancy Guidance Experience",
 
@@ -100,7 +116,7 @@
 
       "groups": {
 
-        "Chapter 04": "/proxy/api/nhentai/chapter/257131/"
+        "Chapter 04.1": "/proxy/api/nhentai/chapter/257131/"
 
       },
 
@@ -108,7 +124,39 @@
 
     },
 
-    "07": {
+    "08": {
+
+      "title": "Hypnotic Sexual Counseling 4 Part 2",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 04.2": "/proxy/api/hitomi/chapter/1581788/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "09": {
+
+      "title": "Saimin Seishidou Obata Natsumi No Baai",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 05": "/proxy/api/hitomi/chapter/1585627/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "10": {
 
       "title": "Saimin Seishidou kurashiki reika no Baai",
 
@@ -116,7 +164,7 @@
 
       "groups": {
 
-        "Chapter 05": "/proxy/api/nhentai/chapter/261181/"
+        "Chapter 06": "/proxy/api/nhentai/chapter/261181/"
 
       },
 
@@ -126,13 +174,13 @@
 
     "11": {
 
-      "title": "Hypnosis Sex Guidance! Training Session One: Yui Obata And Daiki Tachibana",
+      "title": "Saimin Seishidou Character Profile",
 
       "volume": "01",
 
       "groups": {
 
-        "Chapter 11": "/proxy/api/hitomi/chapter/985020/"
+        "Chapter 07": "/proxy/api/hitomi/chapter/1590540/"
 
       },
 
@@ -142,221 +190,13 @@
 
     "12": {
 
-      "title": "Saimin Seishidou 2 Kurashiki Reina No Baai | Hypnosis Sex Guidance! Training Session Two: Reina Kurashiki",
+      "title": "Saimin Seishidou Soushuuhen 1 Japanese",
 
       "volume": "01",
 
       "groups": {
 
-        "Chapter 12": "/proxy/api/hitomi/chapter/1660411/"
-
-      },
-
-      "last_updated": "1616368746"
-
-    },
-
-    "13": {
-
-      "title": "Saimin Seishidou 2.5 Keika Kansatu",
-
-      "volume": "01",
-
-      "groups": {
-
-        "Chapter 12.5": "/proxy/api/hitomi/chapter/1094052/"
-
-      },
-
-      "last_updated": "1616368746"
-
-    },
-
-    "14": {
-
-      "title": "Saimin Seishidou 2.75 Taiken Shidou | Hypnosis Sex Guidance 2.75 Personal Guidance",
-
-      "volume": "01",
-
-      "groups": {
-
-        "Chapter 12.75": "/proxy/api/hitomi/chapter/1221742/"
-
-      },
-
-      "last_updated": "1616368746"
-
-    },
-
-    "15": {
-
-      "title": "Saimin Seishidou Soushuuhen",
-
-      "volume": "01",
-
-      "groups": {
-
-        "Chapter 12.8": "/proxy/api/hitomi/chapter/1590540/"
-
-      },
-
-      "last_updated": "1616368746"
-
-    },
-
-    "16": {
-
-      "title": "Saimin Seishidou 3 Miyajima Sakura To Kase Masafumi No Baai",
-
-      "volume": "01",
-
-      "groups": {
-
-        "Chapter 13": "/proxy/api/hitomi/chapter/1677358/"
-
-      },
-
-      "last_updated": "1616368746"
-
-    },
-
-    "17": {
-
-      "title": "Saimin Seishidou 4 Ninshin Taiken Shidou (Shi) | Hypnosis Sex Guidance 4 - Pregnancy Guidance Experience",
-
-      "volume": "01",
-
-      "groups": {
-
-        "Chapter 14": "/proxy/api/hitomi/chapter/1336274/"
-
-      },
-
-      "last_updated": "1616368746"
-
-    },
-
-    "18": {
-
-      "title": "Hypnotic Sexual Counseling 4",
-
-      "volume": "01",
-
-      "groups": {
-
-        "Chapter 15": "/proxy/api/hitomi/chapter/1581788/"
-
-      },
-
-      "last_updated": "1616368746"
-
-    },
-
-    "19": {
-
-      "title": "Saimin Seishidou Obata Natsumi No Baai",
-
-      "volume": "01",
-
-      "groups": {
-
-        "Chapter 16": "/proxy/api/hitomi/chapter/1585627/"
-
-      },
-
-      "last_updated": "1616368746"
-
-    },
-
-    "20": {
-
-      "title": "Saimin Seishidou Kurashiki Reika No Baai",
-
-      "volume": "01",
-
-      "groups": {
-
-        "Chapter 17": "/proxy/api/hitomi/chapter/1360961/"
-
-      },
-
-      "last_updated": "1616368746"
-
-    },
-
-    "41": {
-
-      "title": "Saimin Seishidou Soushuuhen 1",
-
-      "volume": "01",
-
-      "groups": {
-
-        "Chapter 06": "/proxy/api/nhentai/chapter/301321/"
-
-      },
-
-      "last_updated": "1616368746"
-
-    },
-
-    "42": {
-
-      "title": "Saimin Seishidou Nozaki Shinobu no Baai",
-
-      "volume": "01",
-
-      "groups": {
-
-        "Chapter 06": "/proxy/api/nhentai/chapter/274326/"
-
-      },
-
-      "last_updated": "1616368746"
-
-    },
-
-    "43": {
-
-      "title": "Saimin Seishidou Obata Natsumi no Baai",
-
-      "volume": "01",
-
-      "groups": {
-
-        "Chapter 06": "/proxy/api/nhentai/chapter/296234/"
-
-      },
-
-      "last_updated": "1616368746"
-
-    },
-
-    "44": {
-
-      "title": "Saimin Seishidou Kurashiki Reika no Baai",
-
-      "volume": "01",
-
-      "groups": {
-
-        "Chapter 06": "/proxy/api/nhentai/chapter/301263/"
-
-      },
-
-      "last_updated": "1616368746"
-
-    },
-
-    "45": {
-
-      "title": "Saimin Seishidou 4: Ninshin Taiken Shidou",
-
-      "volume": "01",
-
-      "groups": {
-
-        "Chapter 06": "/proxy/api/nhentai/chapter/293168/"
+        "Chapter 08": "/proxy/api/nhentai/chapter/301321/"
 
       },
 
