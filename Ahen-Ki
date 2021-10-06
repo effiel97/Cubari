@@ -2,7 +2,7 @@
 
   "title": "Ahen-Ki!",
 
-  "description": "Series : Maken-Ki, hitomi.la",
+  "description": "Series : Maken-Ki, hitomi.la (1212388,1707833,701914), nhentai (230512,324648,107743)",
 
   "artist": "Ken",
 
@@ -20,7 +20,7 @@
 
       "groups": {
 
-        "Chapter 01": "/proxy/api/hitomi/chapter/1212388/"
+        "Chapter 01": "/proxy/api/nhentai/chapter/230512/"
 
       },
 
@@ -36,7 +36,7 @@
 
       "groups": {
 
-        "Chapter 02": "/proxy/api/hitomi/chapter/1707833/"
+        "Chapter 02": "/proxy/api/nhentai/chapter/324648/"
 
       },
 
@@ -52,7 +52,7 @@
 
       "groups": {
 
-        "Chapter 03": "/proxy/api/hitomi/chapter/701914/"
+        "Chapter 03": "/proxy/api/nhentai/chapter/107743/"
 
       },
 
