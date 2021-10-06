@@ -2,7 +2,7 @@
 
   "title": "Distorted Relationship | Ibitsu Na Kankei",
 
-  "description": "Shitomi.la",
+  "description": "hitomi.la (1500029,1455501),nhentai (287888,279670)",
 
   "artist": "Yasu",
 
@@ -20,7 +20,7 @@
 
       "groups": {
 
-        "Chapter 01": "/proxy/api/hitomi/chapter/1500029/"
+        "Chapter 01": "/proxy/api/nhentai/chapter/287888/"
 
       },
 
@@ -36,7 +36,7 @@
 
       "groups": {
 
-        "Chapter 02": "/proxy/api/hitomi/chapter/1455501/"
+        "Chapter 02": "/proxy/api/nhentai/chapter/279670/"
 
       },
 
