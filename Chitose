@@ -2,7 +2,7 @@
 
   "title": "Chitose",
 
-  "description": "COMIC Mugen Tensei, hitomi.la",
+  "description": "COMIC Mugen Tensei, hitomi.la (1474387,1499596,1569013,1678793,1842413), nhentai (283046,287814,301259,319760,346872)",
 
   "artist": "Seto Yuuki",
 
@@ -20,7 +20,7 @@
 
       "groups": {
 
-        "Chapter 01": "/proxy/api/hitomi/chapter/1474387/"
+        "Chapter 01": "/proxy/api/nhentai/chapter/283046/"
 
       },
 
@@ -36,7 +36,7 @@
 
       "groups": {
 
-        "Chapter 02": "/proxy/api/hitomi/chapter/1499596/"
+        "Chapter 02": "/proxy/api/nhentai/chapter/287814/"
 
       },
 
@@ -52,7 +52,7 @@
 
       "groups": {
 
-        "Chapter 03": "/proxy/api/hitomi/chapter/1569013/"
+        "Chapter 03": "/proxy/api/nhentai/chapter/301259/"
 
       },
 
@@ -68,7 +68,7 @@
 
       "groups": {
 
-        "Chapter 04": "/proxy/api/hitomi/chapter/1678793/"
+        "Chapter 04": "/proxy/api/nhentai/chapter/319760/"
 
       },
 
@@ -84,7 +84,7 @@
 
       "groups": {
 
-        "Chapter 05": "/proxy/api/hitomi/chapter/1842413/"
+        "Chapter 05": "/proxy/api/nhentai/chapter/346872/"
 
       },
 
