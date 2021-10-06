@@ -2,7 +2,7 @@
 
   "title": "Erona",
 
-  "description": "hitomi.la",
+  "description": "hitomi.la (1428134,?,1286567), nhentai (276221,325232,277450)",
 
   "artist": "Yamada Gogogo",
 
@@ -20,7 +20,7 @@
 
       "groups": {
 
-        "Chapter 01": "/proxy/api/hitomi/chapter/1428134/"
+        "Chapter 01": "/proxy/api/nhentai/chapter/276221/"
 
       },
 
@@ -30,13 +30,29 @@
 
     "02": {
 
-      "title": "Erona ~Orc No Inmon Ni Okasareta Onna Kishi No Matsuro~ | Erona ~The Fall Of A Beautiful Knight Cursed With The Lewd Mark Of An Orc~ Ch. 1-6 (Decensored)",
+      "title": "ERONA 2 Orc no Inmon ni Modaeshi Miko no Nare no Hate 1-wa,
 
       "volume": "01",
 
       "groups": {
 
-        "Chapter 02": "/proxy/api/hitomi/chapter/1286567/"
+        "Chapter 02": "/proxy/api/nhentai/chapter/325232/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "03": {
+
+      "title": "Erona ~Orc No Inmon Ni Okasareta Onna Kishi No Matsuro~ | Erona ~The Fall Of A Beautiful Knight Cursed With The Lewd Mark Of An Orc~ (Decensored - hitomi) (Japanese)",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 03": "/proxy/api/nhentai/chapter/277450/"
 
       },
 
