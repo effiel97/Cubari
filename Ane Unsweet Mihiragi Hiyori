@@ -2,7 +2,7 @@
 
   "title": "Ane Unsweet Mihiragi Hiyori",
 
-  "description": "hitomi.la",
+  "description": "hitomi.la (751688,800019), nhentai (119289,130656)",
 
   "artist": "Tanaka Aji",
 
@@ -20,7 +20,7 @@
 
       "groups": {
 
-        "Chapter 01": "/proxy/api/hitomi/chapter/751688/"
+        "Chapter 01": "/proxy/api/nhentai/chapter/119289/"
 
       },
 
@@ -36,7 +36,7 @@
 
       "groups": {
 
-        "Chapter 02": "/proxy/api/hitomi/chapter/800019/"
+        "Chapter 02": "/proxy/api/nhentai/chapter/130656/"
 
       },
 
