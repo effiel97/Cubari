@@ -2,7 +2,7 @@
 
   "title": "Development Diary | Kaihatsu Nikki",
 
-  "description": "hitomi.la, nhentai.net",
+  "description": "hitomi.la (875520,875521,703245,703359,680304,?,875524,933256,933259,1100510,1192289,1089053,1618496,1575638,1891744), nhentai.net (93129,93131,107742,107698,106301,340020,149411,163639,179530,204124,342108,201517,311414,302610,355746)",
 
   "artist": "Mucha",
 
@@ -20,7 +20,7 @@
 
       "groups": {
 
-        "Chapter 01": "/proxy/api/hitomi/chapter/875520/"
+        "Chapter 01": "/proxy/api/nhentai/chapter/93129/"
 
       },
 
@@ -36,7 +36,7 @@
 
       "groups": {
 
-        "Chapter 02": "/proxy/api/hitomi/chapter/875521/"
+        "Chapter 02": "/proxy/api/nhentai/chapter/93131/"
 
       },
 
@@ -52,7 +52,7 @@
 
       "groups": {
 
-        "Chapter 03": "/proxy/api/hitomi/chapter/703245/"
+        "Chapter 03": "/proxy/api/nhentai/chapter/107742/"
 
       },
 
@@ -68,7 +68,7 @@
 
       "groups": {
 
-        "Chapter 04": "/proxy/api/hitomi/chapter/703359/"
+        "Chapter 04": "/proxy/api/nhentai/chapter/107698/"
 
       },
 
@@ -84,7 +84,7 @@
 
       "groups": {
 
-        "Chapter 04.1": "/proxy/api/hitomi/chapter/680304/"
+        "Chapter 04.1": "/proxy/api/nhentai/chapter/106301/"
 
       },
 
@@ -116,7 +116,7 @@
 
       "groups": {
 
-        "Chapter 01": "/proxy/api/hitomi/chapter/875524/"
+        "Chapter 01": "/proxy/api/nhentai/chapter/149411/"
 
       },
 
@@ -132,7 +132,7 @@
 
       "groups": {
 
-        "Chapter 02": "/proxy/api/hitomi/chapter/933256/"
+        "Chapter 02": "/proxy/api/nhentai/chapter/163639/"
 
       },
 
@@ -148,7 +148,7 @@
 
       "groups": {
 
-        "Chapter 03": "/proxy/api/hitomi/chapter/933259/"
+        "Chapter 03": "/proxy/api/nhentai/chapter/179530/"
 
       },
 
@@ -164,7 +164,7 @@
 
       "groups": {
 
-        "Chapter 04": "/proxy/api/hitomi/chapter/1100510/"
+        "Chapter 04": "/proxy/api/nhentai/chapter/204124/"
 
       },
 
@@ -180,7 +180,7 @@
 
       "groups": {
 
-        "Chapter 05": "/proxy/api/hitomi/chapter/1192289/"
+        "Chapter 05": "/proxy/api/nhentai/chapter/342108/"
 
       },
 
@@ -196,7 +196,7 @@
 
       "groups": {
 
-        "Chapter 05.1": "/proxy/api/hitomi/chapter/1089053/"
+        "Chapter 05.1": "/proxy/api/nhentai/chapter/201517/"
 
       },
 
@@ -212,23 +212,7 @@
 
       "groups": {
 
-        "Chapter 06": "/proxy/api/hitomi/chapter/1618496/"
-
-      },
-
-      "last_updated": "1616368746"
-
-    },
-
-    "18": {
-
-      "title": "Development Diary Ch.1-4+Ep+Extra Chii-chan Kaihatsu Nikki Color Ban | Chii-chan Development Diary Full Color Collection",
-
-      "volume": "02",
-
-      "groups": {
-
-        "Chapter 07": "/proxy/api/nhentai/chapter/340020/"
+        "Chapter 06": "/proxy/api/nhentai/chapter/311414/"
 
       },
 
@@ -244,7 +228,7 @@
 
       "groups": {
 
-        "Chapter 01": "/proxy/api/hitomi/chapter/1575638/"
+        "Chapter 01": "/proxy/api/nhentai/chapter/302610/"
 
       },
 
@@ -260,7 +244,7 @@
 
       "groups": {
 
-        "Chapter 02": "/proxy/api/hitomi/chapter/1891744/"
+        "Chapter 02": "/proxy/api/nhentai/chapter/355746/"
 
       },
 
