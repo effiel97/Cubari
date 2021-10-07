@@ -1,0 +1,113 @@
+{
+
+  "title": "Development Diary | Kaihatsu Nikki Chii-chan",
+
+  "description": "hitomi.la (875520,875521,703245,703359,680304,?), nhentai.net (93129,93131,107742,107698,106301,340020)",
+
+  "artist": "Mucha",
+
+  "author": "Muchakai",
+
+  "cover": "https://i.imgur.com/p02tr4rl.jpg",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "Development Diary Ch.1 Chii-Chan Kaihatsu Nikki | Chii-Chan Development Diary 1",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/nhentai/chapter/93129/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "Development Diary Ch.2 Chii-Chan Kaihatsu Nikki | Chii-Chan Development Diary 2",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/nhentai/chapter/93131/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "03": {
+
+      "title": "Development Diary Ch.3 Chii-Chan Kaihatsu Nikki | Chii-Chan Development Diary 3",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 03": "/proxy/api/nhentai/chapter/107742/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "04": {
+
+      "title": "Development Diary Ch.4 Chii-Chan Kaihatsu Nikki | Chii-Chan Development Diary 4",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 04": "/proxy/api/nhentai/chapter/107698/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "05": {
+
+      "title": "Development Diary Ch.4.1 Chii-Chan Kaihatsu Nikki | Chii-Chan Development Diary 4.1",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 04.1": "/proxy/api/nhentai/chapter/106301/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "06": {
+
+      "title": "Development Diary Ch.1-4+Ep+Extra Chii-chan Kaihatsu Nikki Color Ban | Chii-chan Development Diary Full Color Collection",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 05": "/proxy/api/nhentai/chapter/340020/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    }
+
+  }
+
+}
