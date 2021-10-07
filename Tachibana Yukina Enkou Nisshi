@@ -2,7 +2,7 @@
 
   "title": "Tachibana Yukina Enkou Nisshi",
 
-  "description": "hitomi.la",
+  "description": "hitomi.la (1619477,1210699,1619478,1619474,1619480), nhentai (311030,230116,311029,311031,311027)",
 
   "artist": "Shake",
 
@@ -20,7 +20,7 @@
 
       "groups": {
 
-        "Chapter 01": "/proxy/api/hitomi/chapter/1619477/"
+        "Chapter 01": "/proxy/api/nhentai/chapter/311030/"
 
       },
 
@@ -36,7 +36,7 @@
 
       "groups": {
 
-        "Chapter 02": "/proxy/api/hitomi/chapter/1210699/"
+        "Chapter 02": "/proxy/api/nhentai/chapter/230116/"
 
       },
 
@@ -52,7 +52,7 @@
 
       "groups": {
 
-        "Chapter 03": "/proxy/api/hitomi/chapter/1619478/"
+        "Chapter 03": "/proxy/api/nhentai/chapter/311029/"
 
       },
 
@@ -68,7 +68,7 @@
 
       "groups": {
 
-        "Chapter 04": "/proxy/api/hitomi/chapter/1619474/"
+        "Chapter 04": "/proxy/api/nhentai/chapter/311031/"
 
       },
 
@@ -84,7 +84,7 @@
 
       "groups": {
 
-        "Chapter 05": "/proxy/api/hitomi/chapter/1619480/"
+        "Chapter 05": "/proxy/api/nhentai/chapter/311027/"
 
       },
 
