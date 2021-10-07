@@ -1,0 +1,49 @@
+{
+
+  "title": "Development Diary | Kaihatsu Nikki Mako-chan",
+
+  "description": "hitomi.la (1575638,1891744), nhentai.net (302610,355746)",
+
+  "artist": "Mucha",
+
+  "author": "Muchakai",
+
+  "cover": "https://i.nhentai.net/galleries/1575638/1.jpg",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "Development Diary Ch.11 Mako-Chan Kaihatsu Nikki | Mako-Chans Development Diary (Decensored)",
+
+      "volume": "03",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/nhentai/chapter/302610/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "Development Diary Ch.12 Mako-Chan Kaihatsu Nikki 2 -Netorare… Itsuwari No Shotaiken- | Mako-Chans Development Diary 2 (Decensored)",
+
+      "volume": "03",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/nhentai/chapter/355746/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    }
+
+  }
+
+}
