@@ -2,7 +2,7 @@
 
   "title": "Mating Dance",
 
-  "description": "Series : Mahou Shoujo Lyrical Nanoha, hitomi.la",
+  "description": "Series : Mahou Shoujo Lyrical Nanoha, hitomi.la (1074050,892503,1003908,1032234,1144678), nhentai (197837,153812,181499,188569,215068)",
 
   "artist": "Ishigaki Takashi",
 
@@ -20,7 +20,7 @@
 
       "groups": {
 
-        "Chapter 01": "/proxy/api/hitomi/chapter/1074050/"
+        "Chapter 01": "/proxy/api/nhentai/chapter/197837/"
 
       },
 
@@ -36,7 +36,7 @@
 
       "groups": {
 
-        "Chapter 02": "/proxy/api/hitomi/chapter/892503/"
+        "Chapter 02": "/proxy/api/nhentai/chapter/153812/"
 
       },
 
@@ -52,7 +52,7 @@
 
       "groups": {
 
-        "Chapter 03": "/proxy/api/hitomi/chapter/1003908/"
+        "Chapter 03": "/proxy/api/nhentai/chapter/181499/"
 
       },
 
@@ -68,7 +68,7 @@
 
       "groups": {
 
-        "Chapter 04": "/proxy/api/hitomi/chapter/1032234/"
+        "Chapter 04": "/proxy/api/nhentai/chapter/188569/"
 
       },
 
@@ -84,7 +84,7 @@
 
       "groups": {
 
-        "Chapter 05": "/proxy/api/hitomi/chapter/1144678/"
+        "Chapter 05": "/proxy/api/nhentai/chapter/215068/"
 
       },
 
