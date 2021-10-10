@@ -2,7 +2,7 @@
 
   "title": "Seiso Kanojo, Ochiru",
 
-  "description": "hitomi.la",
+  "description": "hitomi.la (1817892,1817919), nhentai (342932, 342738)",
 
   "artist": "Great Mosu",
 
@@ -20,7 +20,7 @@
 
       "groups": {
 
-        "Chapter 01": "/proxy/api/hitomi/chapter/1817892/"
+        "Chapter 01": "/proxy/api/nhentai/chapter/342932/"
 
       },
 
@@ -36,7 +36,7 @@
 
       "groups": {
 
-        "Chapter 02": "/proxy/api/hitomi/chapter/1817919/"
+        "Chapter 02": "/proxy/api/nhentai/chapter/342738/"
 
       },
 
