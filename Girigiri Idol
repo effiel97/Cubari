@@ -2,7 +2,7 @@
 
   "title": "Girigiri Idol",
 
-  "description": "hitomi.la",
+  "description": "hitomi.la (?,?,?,?,?,?,1892580,1334478), nhentai (163816,163817,163815,164670,175022,243440,?,256922)",
 
   "artist": "Rocket Monkey",
 
@@ -14,13 +14,13 @@
 
     "01": {
 
-      "title": "Girigiri Idol Sailor Jooby",
+      "title": "Girigiri Idol 1",
 
       "volume": "01",
 
       "groups": {
 
-        "Chapter 01": "/proxy/api/hitomi/chapter/1892580/"
+        "Chapter 01": "/proxy/api/nhentai/chapter/163816/"
 
       },
 
@@ -30,13 +30,109 @@
 
     "02": {
 
+      "title": "Girigiri Idol 2",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/nhentai/chapter/163817/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "03": {
+
+      "title": "Girigiri Idol 2.5",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02.5": "/proxy/api/nhentai/chapter/163815/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "04": {
+
+      "title": "Girigiri Idol 3",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 03": "/proxy/api/nhentai/chapter/164670/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "05": {
+
+      "title": "Girigiri Idol 4",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 04": "/proxy/api/nhentai/chapter/175022/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "06": {
+
+      "title": "Girigiri Idol 5",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 05": "/proxy/api/nhentai/chapter/243440/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "07": {
+
+      "title": "Girigiri Idol Sailor Jooby",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 07": "/proxy/api/hitomi/chapter/1892580/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "08": {
+
       "title": "ギリギリアイドル + 4Pリーフレット Complete - Japanese",
 
       "volume": "01",
 
       "groups": {
 
-        "Chapter 02": "/proxy/api/hitomi/chapter/1334478/"
+        "Chapter 08": "/proxy/api/nhentai/chapter/256922/"
 
       },
 
