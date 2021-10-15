@@ -2,7 +2,7 @@
 
   "title": "Hayami-San Wa Me Ga Mienai",
 
-  "description": "hitomi.la",
+  "description": "hitomi.la (1377430,1617762), nhentai (265251,311597)",
 
   "artist": "Fuetakishi",
 
@@ -20,7 +20,7 @@
 
       "groups": {
 
-        "Chapter 01": "/proxy/api/hitomi/chapter/1377430/"
+        "Chapter 01": "/proxy/api/nhentai/chapter/265251/"
 
       },
 
@@ -36,7 +36,7 @@
 
       "groups": {
 
-        "Chapter 02": "/proxy/api/hitomi/chapter/1617762/"
+        "Chapter 02": "/proxy/api/nhentai/chapter/311597/"
 
       },
 
