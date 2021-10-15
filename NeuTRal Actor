@@ -2,7 +2,7 @@
 
   "title": "NeuTRal Actor",
 
-  "description": "hitomi.la",
+  "description": "hitomi.la (1359423,1353129,1544790), nhentai (262087,260912,295833)",
 
   "artist": "Hitoi",
 
@@ -20,7 +20,7 @@
 
       "groups": {
 
-        "Chapter 01": "/proxy/api/hitomi/chapter/1359423/"
+        "Chapter 01": "/proxy/api/nhentai/chapter/262087/"
 
       },
 
@@ -36,7 +36,7 @@
 
       "groups": {
 
-        "Chapter 02": "/proxy/api/hitomi/chapter/1353129/"
+        "Chapter 02": "/proxy/api/nhentai/chapter/260912/"
 
       },
 
@@ -52,7 +52,7 @@
 
       "groups": {
 
-        "Chapter 03": "/proxy/api/hitomi/chapter/1544790/"
+        "Chapter 03": "/proxy/api/nhentai/chapter/295833/"
 
       },
 
