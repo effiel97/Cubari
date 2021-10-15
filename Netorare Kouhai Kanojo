@@ -2,7 +2,7 @@
 
   "title": "Netorare Kouhai Kanojo",
 
-  "description": "COMIC Mugen Tensei, hitomi.la",
+  "description": "COMIC Mugen Tensei, hitomi.la (1892199,1788559,1891507), nhentai (355856,338127,355708)",
 
   "artist": "Takeda Aranobu",
 
@@ -20,7 +20,7 @@
 
       "groups": {
 
-        "Chapter 01": "/proxy/api/hitomi/chapter/1892199/"
+        "Chapter 01": "/proxy/api/nhentai/chapter/355856/"
 
       },
 
@@ -36,7 +36,7 @@
 
       "groups": {
 
-        "Chapter 02": "/proxy/api/hitomi/chapter/1788559/"
+        "Chapter 02": "/proxy/api/nhentai/chapter/338127/"
 
       },
 
@@ -68,7 +68,7 @@
 
       "groups": {
 
-        "Chapter 04": "/proxy/api/hitomi/chapter/1892384/"
+        "Chapter 04": "/proxy/api/nhentai/chapter/355708/"
 
       },
 
