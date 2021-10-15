@@ -2,7 +2,7 @@
 
   "title": "One Hurricane",
 
-  "description": "One Punch Man, nhentai.net, hitomi.la",
+  "description": "One Punch Man, nhentai.net (121811,144921,157478,211310,369127,191461,275958,368076,324193,373769), hitomi.la (762606,856657,907084,?,1867639,1867631,1434264,1712775,1704942,1867640)",
 
   "artist": "Nyoro Nyorozou",
 
@@ -20,7 +20,7 @@
 
       "groups": {
 
-        "Chapter 01": "/proxy/api/hitomi/chapter/762606/"
+        "Chapter 01": "/proxy/api/nhentai/chapter/121811/"
 
       },
 
@@ -36,7 +36,7 @@
 
       "groups": {
 
-        "Chapter 02": "/proxy/api/hitomi/chapter/856657/"
+        "Chapter 02": "/proxy/api/nhentai/chapter/144921/"
 
       },
 
@@ -52,7 +52,7 @@
 
       "groups": {
 
-        "Chapter 03": "/proxy/api/hitomi/chapter/907084/"
+        "Chapter 03": "/proxy/api/nhentai/chapter/157478/"
 
       },
 
@@ -84,7 +84,7 @@
 
       "groups": {
 
-        "Chapter 04": "/proxy/api/hitomi/chapter/1867639/"
+        "Chapter 04": "/proxy/api/nhentai/chapter/369127/"
 
       },
 
@@ -100,7 +100,7 @@
 
       "groups": {
 
-        "Chapter 05": "/proxy/api/hitomi/chapter/1867631/"
+        "Chapter 05": "/proxy/api/nhentai/chapter/191461/"
 
       },
 
@@ -116,7 +116,7 @@
 
       "groups": {
 
-        "Chapter 06": "/proxy/api/hitomi/chapter/1434264/"
+        "Chapter 06": "/proxy/api/nhentai/chapter/275958/"
 
       },
 
@@ -132,7 +132,7 @@
 
       "groups": {
 
-        "Chapter 06.5": "/proxy/api/hitomi/chapter/1712775/"
+        "Chapter 06.5": "/proxy/api/nhentai/chapter/368076/"
 
       },
 
@@ -148,7 +148,7 @@
 
       "groups": {
 
-        "Chapter 07": "/proxy/api/hitomi/chapter/1704942/"
+        "Chapter 07": "/proxy/api/nhentai/chapter/324193/"
 
       },
 
@@ -164,7 +164,7 @@
 
       "groups": {
 
-        "Chapter 08": "/proxy/api/hitomi/chapter/1867640/"
+        "Chapter 08": "/proxy/api/nhentai/chapter/373769/"
 
       },
 
