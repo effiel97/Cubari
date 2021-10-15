@@ -2,7 +2,7 @@
 
   "title": "Seika Jogakuin Koutoubu Kounin Sao Oji-San",
 
-  "description": "nhentai.net, hitomi.la",
+  "description": "nhentai.net (293537,288026,312120,319343,352745), hitomi.la (1532197,?,1630029,1676296,1876356)",
 
   "artist": "Kurosu Gatari",
 
@@ -20,7 +20,7 @@
 
       "groups": {
 
-        "Chapter 01": "/proxy/api/hitomi/chapter/1532197/"
+        "Chapter 01": "/proxy/api/nhentai/chapter/293537/"
 
       },
 
@@ -52,7 +52,7 @@
 
       "groups": {
 
-        "Chapter 03": "/proxy/api/hitomi/chapter/1630029/"
+        "Chapter 03": "/proxy/api/nhentai/chapter/312120/"
 
       },
 
@@ -68,7 +68,7 @@
 
       "groups": {
 
-        "Chapter 04": "/proxy/api/hitomi/chapter/1676296/"
+        "Chapter 04": "/proxy/api/nhentai/chapter/319343/"
 
       },
 
@@ -84,7 +84,7 @@
 
       "groups": {
 
-        "Chapter 05": "/proxy/api/hitomi/chapter/1876356/"
+        "Chapter 05": "/proxy/api/nhentai/chapter/352745/"
 
       },
 
