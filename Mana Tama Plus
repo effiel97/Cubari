@@ -2,7 +2,7 @@
 
   "title": "Mana Tama Plus",
 
-  "description": "Series : Love Plus, hitomi.la",
+  "description": "Series : Love Plus, hitomi.la (525715,565941,908827,1479985,1502933), nhentai (80646,86803,157843,284262,347963)",
 
   "artist": "Takeda Hiromitsu",
 
@@ -20,7 +20,7 @@
 
       "groups": {
 
-        "Chapter 01": "/proxy/api/hitomi/chapter/525715/"
+        "Chapter 01": "/proxy/api/nhentai/chapter/80646/"
 
       },
 
@@ -36,7 +36,7 @@
 
       "groups": {
 
-        "Chapter 02": "/proxy/api/hitomi/chapter/565941/"
+        "Chapter 02": "/proxy/api/nhentai/chapter/86803/"
 
       },
 
@@ -52,7 +52,7 @@
 
       "groups": {
 
-        "Chapter 03": "/proxy/api/hitomi/chapter/908827/"
+        "Chapter 03": "/proxy/api/nhentai/chapter/157843/"
 
       },
 
@@ -68,7 +68,7 @@
 
       "groups": {
 
-        "Chapter 04": "/proxy/api/hitomi/chapter/1479985/"
+        "Chapter 04": "/proxy/api/nhentai/chapter/284262/"
 
       },
 
@@ -84,7 +84,7 @@
 
       "groups": {
 
-        "Chapter 05": "/proxy/api/hitomi/chapter/1502933/"
+        "Chapter 05": "/proxy/api/nhentai/chapter/347963/"
 
       },
 
