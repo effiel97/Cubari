@@ -2,7 +2,7 @@
 
   "title": "Max Affection System!",
 
-  "description": "Series : The Idolmaster, hitomi.la",
+  "description": "Series : The Idolmaster, hitomi.la (670768,854552,1232150,1619516), nhentai (105052,144461,235369,311985)",
 
   "artist": "Sian",
 
@@ -20,7 +20,7 @@
 
       "groups": {
 
-        "Chapter 01": "/proxy/api/hitomi/chapter/670768/"
+        "Chapter 01": "/proxy/api/nhentai/chapter/105052/"
 
       },
 
@@ -36,7 +36,7 @@
 
       "groups": {
 
-        "Chapter 02": "/proxy/api/hitomi/chapter/854552/"
+        "Chapter 02": "/proxy/api/nhentai/chapter/144461/"
 
       },
 
@@ -52,7 +52,7 @@
 
       "groups": {
 
-        "Chapter 03": "/proxy/api/hitomi/chapter/1232150/"
+        "Chapter 03": "/proxy/api/nhentai/chapter/235369/"
 
       },
 
@@ -68,7 +68,7 @@
 
       "groups": {
 
-        "Chapter 04": "/proxy/api/hitomi/chapter/1619516/"
+        "Chapter 04": "/proxy/api/nhentai/chapter/311985/"
 
       },
 
