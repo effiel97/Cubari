@@ -2,7 +2,7 @@
 
   "title": "Shoutengai No Ana Zuma-Tachi",
 
-  "description": "hitomi.la",
+  "description": "hitomi.la (1575115,1873225), nhentai (302509,353484)",
 
   "artist": "Fuetakishi",
 
@@ -20,7 +20,7 @@
 
       "groups": {
 
-        "Chapter 01": "/proxy/api/hitomi/chapter/1575115/"
+        "Chapter 01": "/proxy/api/nhentai/chapter/302509/"
 
       },
 
@@ -36,7 +36,7 @@
 
       "groups": {
 
-        "Chapter 02": "/proxy/api/hitomi/chapter/1873225/"
+        "Chapter 02": "/proxy/api/nhentai/chapter/353484/"
 
       },
 
