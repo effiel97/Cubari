@@ -2,7 +2,7 @@
 
   "title": "Chitose",
 
-  "description": "COMIC Mugen Tensei, hitomi.la (1474387,1499596,1569013,1678793,1842413), nhentai (283046,287814,301259,319760,346872)",
+  "description": "COMIC Mugen Tensei, hitomi.la (1474387,1499596,1569013,1678793,1842413,?), nhentai (283046,287814,301259,319760,346872,381502)",
 
   "artist": "Seto Yuuki",
 
@@ -85,6 +85,22 @@
       "groups": {
 
         "Chapter 05": "/proxy/api/nhentai/chapter/346872/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "06": {
+
+      "title": "Chitose Complete",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 06": "/proxy/api/nhentai/chapter/381502/"
 
       },
 
