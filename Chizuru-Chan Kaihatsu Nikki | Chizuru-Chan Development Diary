@@ -1,6 +1,6 @@
 {
 
-  "title": "Development Diary | Kaihatsu Nikki Chizuru-chan",
+  "title": "Development Diary Chizuru-chan",
 
   "description": "hitomi.la (875524,933256,933259,1100510,1192289,1089053,1618496), nhentai.net (149411,163639,179530,204124,342108,201517,311414)",
 
@@ -100,7 +100,7 @@
 
       "groups": {
 
-        "Chapter 05.1": "/proxy/api/hitomi/chapter/201517/"
+        "Chapter 05.1": "/proxy/api/nhentai/chapter/201517/"
 
       },
 
@@ -116,7 +116,7 @@
 
       "groups": {
 
-        "Chapter 06": "/proxy/api/hitomi/chapter/311414/"
+        "Chapter 06": "/proxy/api/nhentai/chapter/311414/"
 
       },
 
