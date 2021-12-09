@@ -1,0 +1,82 @@
+{
+
+  "title": "Saenai Heroine no Sodatekata _ Utaha Kasumigaoka",
+
+  "description": "Series : Saenai Heroine no Sodatekata, nhentai (227542,381889,380289,382608",
+
+  "artist": "Yumeya Honpo",
+
+  "author": "Mukeikaku",
+
+  "cover": "https://t7.nhentai.net/galleries/1198999/cover.jpg",
+
+  "chapters": {
+
+    "01": {
+
+      "title": "Honmono no Yukue Ch. 01",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 01": "/proxy/api/nhentai/chapter/227542/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "02": {
+
+      "title": "Yakusoku no Yukue Ch. 02",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 02": "/proxy/api/nhentai/chapter/381889/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "03": {
+
+      "title": "Jouyoku no Yukue Ch. 03",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 03": "/proxy/api/nhentai/chapter/380289/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "04": {
+
+      "title": "Daraku no Yukue Ch. 04",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 04": "/proxy/api/nhentai/chapter/382608/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    }
+
+
+  }
+
+}
