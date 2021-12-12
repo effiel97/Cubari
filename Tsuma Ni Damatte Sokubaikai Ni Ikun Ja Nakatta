@@ -2,7 +2,7 @@
 
   "title": "Tsuma Ni Damatte Sokubaikai Ni Ikun Ja Nakatta",
 
-  "description": "hitomi.la",
+  "description": "hitomi.la (1789232,1789236,1647107,1713510,1713510), nhentai (338146,338147,?,?,?) ,imgur (?,?,sAMihtQ,5CzYrlE,SCu1hpv)",
 
   "artist": "Minamoto",
 
@@ -20,7 +20,7 @@
 
       "groups": {
 
-        "Chapter 01": "/proxy/api/hitomi/chapter/1789232/"
+        "Chapter 01": "/proxy/api/nhentai/chapter/338146/"
 
       },
 
@@ -36,7 +36,7 @@
 
       "groups": {
 
-        "Chapter 01.5": "/proxy/api/hitomi/chapter/1789236/"
+        "Chapter 01.5": "/proxy/api/nhentai/chapter/338147/"
 
       },
 
@@ -52,7 +52,7 @@
 
       "groups": {
 
-        "Chapter 02": "/proxy/api/hitomi/chapter/1647107/"
+        "Chapter 02": "/proxy/api/imgur/chapter/sAMihtQ/"
 
       },
 
@@ -68,7 +68,23 @@
 
       "groups": {
 
-        "Chapter 03": "/proxy/api/hitomi/chapter/1713510/"
+        "Chapter 03": "/proxy/api/imgur/chapter/5CzYrlE/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "05": {
+
+      "title": "Tsuma Ni Damatte Sokubaikai Ni Ikun Ja Nakatta 3 | I Shouldnt Have Gone To The Doujinshi Convention Without Telling My Wife 3 (Decensored) Husband Dialogue",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 03.5": "/proxy/api/imgur/chapter/SCu1hpv/"
 
       },
 
