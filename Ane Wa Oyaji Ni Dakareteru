@@ -2,7 +2,7 @@
 
   "title": "Ane Wa Oyaji Ni Dakareteru",
 
-  "description": "hitomi.la (1676648,1738392), nhentai (319435,329745)",
+  "description": "hitomi.la (1676648,1738392), nhentai (319435,329745,385186)",
 
   "artist": "Haruhisky",
 
@@ -37,6 +37,22 @@
       "groups": {
 
         "Chapter 02": "/proxy/api/nhentai/chapter/329745/"
+
+      },
+
+      "last_updated": "1616368746"
+
+    },
+
+    "03": {
+
+      "title": "Ane Wa Oyaji Ni Dakareteru 3 | My Sister Sleeps With My Dad 3 (Decensored)",
+
+      "volume": "01",
+
+      "groups": {
+
+        "Chapter 03": "/proxy/api/nhentai/chapter/385186/"
 
       },
 
