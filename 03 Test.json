@@ -1,0 +1,21 @@
+{
+  "title": "03 Test",
+  "description": "",
+  "artist": "drug",
+  "author": "lord",
+  "cover": "https://i.imgur.com/0JAnxv5.png",
+  "chapters": {
+    "01": {
+      "title": "01",
+      "volume": "01",
+      "last_updated": "1648784346",
+      "groups": {
+        "Chapter 01": [
+          "https://i.imgur.com/hbkT9qb.png",
+          "https://i.imgur.com/LzoJt9Y.png",
+          "https://i.imgur.com/SPJRrIC.png"
+        ]
+      }
+    }
+  }
+}
