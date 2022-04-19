@@ -2,7 +2,7 @@
 
   "title": "Medaka-Chan Sakunyuu",
 
-  "description": "Series : Medaka Box, hitomi.la",
+  "description": "Series : Medaka Box, hitomi.la (635026,635031,635034,652507,652506), nhentai (99080,99090,99094,101800,101799)",
 
   "artist": "Crowe",
 
@@ -20,7 +20,7 @@
 
       "groups": {
 
-        "Chapter 01": "/proxy/api/hitomi/chapter/635026/"
+        "Chapter 01": "/proxy/api/nhentai/chapter/99080/"
 
       },
 
@@ -36,7 +36,7 @@
 
       "groups": {
 
-        "Chapter 02": "/proxy/api/hitomi/chapter/635031/"
+        "Chapter 02": "/proxy/api/nhentai/chapter/99090/"
 
       },
 
@@ -52,7 +52,7 @@
 
       "groups": {
 
-        "Chapter 03": "/proxy/api/hitomi/chapter/635034/"
+        "Chapter 03": "/proxy/api/nhentai/chapter/99094/"
 
       },
 
@@ -68,7 +68,7 @@
 
       "groups": {
 
-        "Chapter 04": "/proxy/api/hitomi/chapter/652507/"
+        "Chapter 04": "/proxy/api/nhentai/chapter/101800/"
 
       },
 
@@ -84,7 +84,7 @@
 
       "groups": {
 
-        "Chapter 05": "/proxy/api/hitomi/chapter/652506/"
+        "Chapter 05": "/proxy/api/nhentai/chapter/101799/"
 
       },
 
