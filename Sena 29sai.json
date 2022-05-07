@@ -1,8 +1,41 @@
 {
   "title": "Sena 29sai",
-  "description": "nhentai.net (374784,",
+  "description": "nhentai.net (374784,100828,115387,186148)",
   "artist": "Fei ",
   "author": "Maidoll",
   "cover": "https://t3.nhentai.net/galleries/2016779/cover.jpg",
-  "chapters": {}
+  "chapters": {
+    "01": {
+      "title": "Sena 29sai Tomodachi ga Inai",
+      "volume": "",
+      "last_updated": "1651913066",
+      "groups": {
+        "": "https://nhentai.net/g/374784/"
+      }
+    },
+    "02": {
+      "title": "Sena 29sai Koibito ga Inai",
+      "volume": "",
+      "last_updated": "1651913140",
+      "groups": {
+        "": "https://nhentai.net/g/100828/"
+      }
+    },
+    "03": {
+      "title": "Sena 29sai Koibito ga Inai 2",
+      "volume": "",
+      "last_updated": "1651913185",
+      "groups": {
+        "": "https://nhentai.net/g/115387/"
+      }
+    },
+    "04": {
+      "title": "Sena 29sai Tomodachi ga Iranai",
+      "volume": "",
+      "last_updated": "1651913210",
+      "groups": {
+        "": "https://nhentai.net/g/186148/"
+      }
+    }
+  }
 }
