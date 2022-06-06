@@ -1,6 +1,6 @@
 {
   "title": "Hakase no Yoru no Joshu. | The Professor's Assistant At Night.",
-  "description": "Hakase no Yoru no Joshu. | The Professor's Assistant At Night. (Pokémon Sun and Moon)\n博士の夜の助手。 (ポケットモンスター サン・ムーン)\nParodies: pokemon | pocket monsters\nCharacters: lillie, professor kukui",
+  "description": "Hakase no Yoru no Joshu. | The Professor's Assistant At Night. (Pokémon Sun and Moon)\n博士の夜の助手。 (ポケットモンスター サン・ムーン)\nParodies: pokemon | pocket monsters\nCharacters: lillie, professor kukui\nnhentai (353552,277106,353630,387136)",
   "artist": "Miya9",
   "author": "Shironegiya",
   "cover": "https://t3.nhentai.net/galleries/2205643/cover.jpg",
@@ -10,7 +10,31 @@
       "volume": "",
       "last_updated": "1654486723",
       "groups": {
-        "": "https://nhentai.net/g/353552/"
+        "": "/proxy/api/nhentai/chapter/353552/"
+      }
+    },
+    "02": {
+      "title": "02",
+      "volume": "",
+      "last_updated": "1654486907",
+      "groups": {
+        "": "/proxy/api/nhentai/chapter/277106/"
+      }
+    },
+    "03": {
+      "title": "03",
+      "volume": "",
+      "last_updated": "1654486988",
+      "groups": {
+        "": "/proxy/api/nhentai/chapter/353630/"
+      }
+    },
+    "04": {
+      "title": "04",
+      "volume": "",
+      "last_updated": "1654487024",
+      "groups": {
+        "": "/proxy/api/nhentai/chapter/387136/"
       }
     }
   }
