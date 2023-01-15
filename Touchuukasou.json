@@ -1,145 +1,73 @@
 {
-
   "title": "Touchuukasou",
-
   "description": "hitomi.la (1189711,1173823,1323674,1343403,1525997,1559280,1655408,1856187), nhentai (221610,225467,254877,259248,294235,299526,316250,349257), Group - Shoot The Moon",
-
   "artist": "Fuetakishi",
-
   "author": "Fueta Kishi",
-
   "cover": "https://t.nhentai.net/galleries/1100562/cover.jpg",
-
   "chapters": {
-
     "01": {
-
       "title": "Touchuukasou 1",
-
       "volume": "01",
-
+      "last_updated": "1616368746",
       "groups": {
-
-        "Chapter 01": "/proxy/api/nhentai/chapter/221610/"
-
-      },
-
-      "last_updated": "1616368746"
-
+        "Chapter 01": "https://hitomi.la/galleries/1189711.html"
+      }
     },
-
     "02": {
-
       "title": "Touchuukasou 2",
-
       "volume": "01",
-
+      "last_updated": "1616368746",
       "groups": {
-
         "Chapter 02": "/proxy/api/nhentai/chapter/225467/"
-
-      },
-
-      "last_updated": "1616368746"
-
+      }
     },
-
     "03": {
-
       "title": "Touchuukasou 3",
-
       "volume": "01",
-
+      "last_updated": "1616368746",
       "groups": {
-
         "Chapter 03": "/proxy/api/nhentai/chapter/254877/"
-
-      },
-
-      "last_updated": "1616368746"
-
+      }
     },
-
     "04": {
-
       "title": "Touchuukasou 4",
-
       "volume": "01",
-
+      "last_updated": "1616368746",
       "groups": {
-
         "Chapter 04": "/proxy/api/nhentai/chapter/259248/"
-
-      },
-
-      "last_updated": "1616368746"
-
+      }
     },
-
     "05": {
-
       "title": "Touchuukasou 5",
-
       "volume": "01",
-
+      "last_updated": "1616368746",
       "groups": {
-
         "Chapter 05": "/proxy/api/nhentai/chapter/294235/"
-
-      },
-
-      "last_updated": "1616368746"
-
+      }
     },
-
     "06": {
-
       "title": "Touchuukasou 6",
-
       "volume": "01",
-
+      "last_updated": "1616368746",
       "groups": {
-
         "Chapter 06": "/proxy/api/nhentai/chapter/299526/"
-
-      },
-
-      "last_updated": "1616368746"
-
+      }
     },
-
     "07": {
-
       "title": "Touchuukasou 7",
-
       "volume": "01",
-
+      "last_updated": "1616368746",
       "groups": {
-
         "Chapter 07": "/proxy/api/nhentai/chapter/316250/"
-
-      },
-
-      "last_updated": "1616368746"
-
+      }
     },
-
     "08": {
-
       "title": "Touchuukasou 8",
-
       "volume": "01",
-
+      "last_updated": "1616368746",
       "groups": {
-
         "Chapter 08": "/proxy/api/nhentai/chapter/349257/"
-
-      },
-
-      "last_updated": "1616368746"
-
+      }
     }
-
   }
-
 }
